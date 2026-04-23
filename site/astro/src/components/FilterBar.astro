@@ -15,4 +15,15 @@ const { lang } = Astro.props;
     <label><input type="checkbox" checked data-filter="role-guest" /> {t(lang, 'filter.role.guest')}</label>
     <label><input type="checkbox" checked data-filter="role-tiein" /> {t(lang, 'filter.role.tiein')}</label>
   </fieldset>
+  <button
+    class="expand-all"
+    type="button"
+    data-state="0"
+    data-label0={t(lang, 'expand.collapsed')}
+    data-label1={t(lang, 'expand.tracklists')}
+    data-label2={t(lang, 'expand.full')}
+  >
+    <span class="expand-label">{t(lang, 'expand.collapsed')}</span>
+    <span class="expand-arrow">▾</span>
+  </button>
 </nav>

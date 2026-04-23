@@ -21,7 +21,13 @@ const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={desc} />
     <title>{pageTitle}</title>
-    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+    <link rel="icon" href={`${base}/favicon.ico`} sizes="any" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:image" content={`${Astro.site?.origin ?? ''}${base}/og-image.png`} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content={`${Astro.site?.origin ?? ''}${base}/og-image.png`} />
     {LANGS.map((l) => (
       <link rel="alternate" hreflang={l} href={`${base}/${l}${currentPath}`} />
     ))}
@@ -44,11 +50,23 @@ const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/
               class={l === lang ? 'is-current' : ''}
               href={`${base}/${l}${currentPath}`}
               lang={l}
+              data-lang={l}
               aria-current={l === lang ? 'true' : undefined}
             >{l}</a>
           ))}
         </span>
       </nav>
+      <script is:inline define:vars={{ lang }}>
+        // remember explicit language choice for next visit
+        (function () {
+          try { localStorage.setItem('preferredLang', lang); } catch (e) {}
+          document.querySelectorAll('.lang-switch a[data-lang]').forEach(function (a) {
+            a.addEventListener('click', function () {
+              try { localStorage.setItem('preferredLang', a.dataset.lang); } catch (e) {}
+            });
+          });
+        })();
+      </script>
     </header>
 
     <main><slot /></main>

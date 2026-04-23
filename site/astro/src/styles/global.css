@@ -122,6 +122,28 @@ a:hover { text-decoration: underline; }
   align-items: center;
   gap: 4px;
 }
+.expand-all {
+  padding: 4px 12px;
+  border: 1px solid #c14e7a;
+  border-radius: 4px;
+  color: #c14e7a;
+  font-size: 0.85rem;
+  background: #fff;
+  transition: background 0.15s, color 0.15s;
+  align-self: center;
+  height: fit-content;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+.expand-all:hover {
+  background: #c14e7a;
+  color: #fff;
+}
+.expand-all[data-state="1"] { background: #fce4ec; }
+.expand-all[data-state="2"] { background: #c14e7a; color: #fff; }
+.expand-arrow { font-size: 0.75rem; line-height: 1; }
 
 /* ===== Timeline main ===== */
 .timeline {

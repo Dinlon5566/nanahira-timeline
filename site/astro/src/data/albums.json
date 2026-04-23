@@ -604,8 +604,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 11,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 2,
+    "her_ratio": "some",
     "roles": [
       "Performer"
     ],
@@ -2111,29 +2111,6 @@
     "external_links": {}
   },
   {
-    "id": "DIG-SINGLE-041",
-    "title_jp": "超遠距離!!らぶ♡め～る",
-    "title_romaji": "Chou Enkyori!! Love Mail",
-    "title_en": "Chou Enkyori!! Love Mail",
-    "release_date": "2013-01-01",
-    "catalog": "TIE-IN",
-    "event": null,
-    "format": "Game/Anime tie-in",
-    "publisher": null,
-    "tracks_count": 1,
-    "her_tracks_count": 1,
-    "her_ratio": "all",
-    "roles": [
-      "Vocals"
-    ],
-    "display_role": "tiein",
-    "cover": null,
-    "sources": {
-      "vgmdb": null
-    },
-    "external_links": {}
-  },
-  {
     "id": "DIG-SINGLE-042",
     "title_jp": "でぢたる☆でぃすこ feat. ななひら",
     "title_romaji": "Digital Disco feat. Nanahira",
@@ -2368,8 +2345,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 10,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Performer"
     ],
@@ -2504,8 +2481,8 @@
     "format": "DVD",
     "publisher": null,
     "tracks_count": 2,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Performer"
     ],
@@ -2531,8 +2508,8 @@
     "format": "2 CD",
     "publisher": null,
     "tracks_count": 42,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 19,
+    "her_ratio": "some",
     "roles": [
       "Performer"
     ],
@@ -3093,8 +3070,8 @@
     "format": "CD",
     "publisher": "IOSYS",
     "tracks_count": 8,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Performer"
     ],
@@ -3108,6 +3085,35 @@
       "vgmdb": "https://vgmdb.net/album/44514"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-003",
+    "title_jp": "ラブギガヘルツ - EP",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2014-04-23",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 5,
+    "her_tracks_count": 5,
+    "her_ratio": "all",
+    "roles": [
+      "Performer"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-003.jpg",
+      "source": "local",
+      "size": 383436
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/858276917"
+    }
   },
   {
     "id": "48960",
@@ -3976,8 +3982,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 7,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 2,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -4687,6 +4693,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-018",
+    "title_jp": "Bayside Beat",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2015-12-30",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 16,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-018.jpg",
+      "source": "local",
+      "size": 223771
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1711532566",
+      "spotify": "https://open.spotify.com/album/1ABdlv0Ul5JKM2m2FEIiZU"
+    }
+  },
+  {
     "id": "68115",
     "title_jp": "C.H.S Comic Market 89 Special Disc",
     "title_romaji": "C.H.S Comic Market 89 Special Disc",
@@ -4778,8 +4814,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 15,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Vocals"
     ],
@@ -5238,6 +5274,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-017",
+    "title_jp": "Lucky 7",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2016-05-08",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 16,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-017.jpg",
+      "source": "local",
+      "size": 279919
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1711531755",
+      "spotify": "https://open.spotify.com/album/3PwoZ6yAvkJZGDWo5h3Fgm"
+    }
+  },
+  {
     "id": "125348",
     "title_jp": "MEGANTO METEOR / かめりあ",
     "title_romaji": "MEGANTO METEOR / Camellia",
@@ -5572,8 +5638,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 8,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -5680,8 +5746,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 10,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -5722,6 +5788,31 @@
       "vgmdb": "https://vgmdb.net/album/126445"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-010",
+    "title_jp": "DAI☆TAN センセーション",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2016-11-07",
+    "catalog": "RJ186339",
+    "event": null,
+    "format": "MP3/OGG",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "lead",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://www.dlsite.com/maniax/work/=/product_id/RJ186339.html"
+    }
   },
   {
     "id": "71002",
@@ -6128,8 +6219,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 10,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Manager"
     ],
@@ -7178,6 +7269,31 @@
     "external_links": {}
   },
   {
+    "id": "DIG-TIE-007",
+    "title_jp": "ツギハギ (TVアニメ「悪偶」エンディングテーマ)",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2018-07-10",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Single",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Chorus"
+    ],
+    "display_role": "tiein",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1406305959"
+    }
+  },
+  {
     "id": "90819",
     "title_jp": "Grateful Days",
     "title_romaji": "Grateful Days",
@@ -7748,6 +7864,35 @@
     "external_links": {}
   },
   {
+    "id": "DIG-MAHORO-001",
+    "title_jp": "虹乃まほろ レインボーヒッツ 2018-2018",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2018-12-30",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 8,
+    "her_tracks_count": 8,
+    "her_ratio": "all",
+    "roles": [
+      "Performer"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-MAHORO-001.jpg",
+      "source": "local",
+      "size": 203886
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1448663584"
+    }
+  },
+  {
     "id": "DIG-SINGLE-024",
     "title_jp": "ツマミ戦隊　タテレンジャー",
     "title_romaji": "Tsumami Sentai Tate Ranger",
@@ -7859,8 +8004,8 @@
     "format": "CD",
     "publisher": "t+pazolite (C.H.S)",
     "tracks_count": 8,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -7873,7 +8018,10 @@
     "sources": {
       "vgmdb": "https://vgmdb.net/album/124943"
     },
-    "external_links": {}
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1656499097",
+      "spotify": "https://open.spotify.com/album/0M4sOqh3aitncnTltZs7AV"
+    }
   },
   {
     "id": "98714",
@@ -8066,6 +8214,35 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-006",
+    "title_jp": "いんふぃにてぃ・もふりてぃ! (feat. Nanahira)",
+    "title_romaji": "Infinitiy Mofulity",
+    "title_en": "Infinitiy Mofulity (feat. Nanahira)",
+    "release_date": "2019-10-19",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 3,
+    "her_tracks_count": 3,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-006.jpg",
+      "source": "local",
+      "size": 230951
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/us/album/1483897806"
+    }
+  },
+  {
     "id": "130149",
     "title_jp": "ななめが王国 / ななひら&mega",
     "title_romaji": "Nanamega Oukoku / Nanahira&mega",
@@ -8119,6 +8296,35 @@
       "vgmdb": "https://vgmdb.net/album/99938"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-009",
+    "title_jp": "Starry Sky / Aintops",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2019-11-06",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 12,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-009.jpg",
+      "source": "local",
+      "size": 256931
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1486000673"
+    }
   },
   {
     "id": "93559",
@@ -8540,6 +8746,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-019",
+    "title_jp": "Xronial Xero",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2020-03-18",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 10,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-019.jpg",
+      "source": "local",
+      "size": 405315
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1501314614",
+      "spotify": "https://open.spotify.com/album/4IuCtvHN1TiFQYldUCReZD"
+    }
+  },
+  {
     "id": "97005",
     "title_jp": "裏 BEST OF WiNG RED",
     "title_romaji": "Ura BEST OF WiNG RED",
@@ -8756,6 +8992,35 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-007",
+    "title_jp": "Turn Back Time",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2020-07-20",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 14,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Guest Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-007.jpg",
+      "source": "local",
+      "size": 372706
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/us/album/turn-back-time/1524306117"
+    }
+  },
+  {
     "id": "109481",
     "title_jp": "jubeat festo ORIGINAL SOUNDTRACK",
     "title_romaji": "jubeat festo ORIGINAL SOUNDTRACK",
@@ -8935,6 +9200,36 @@
       "vgmdb": "https://vgmdb.net/album/102124"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-014",
+    "title_jp": "Synchronicity",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2020-10-21",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 13,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-014.jpg",
+      "source": "local",
+      "size": 370554
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1535807451",
+      "spotify": "https://open.spotify.com/album/7Bi9aODykmeTNp5MgnYN4x"
+    }
   },
   {
     "id": "DIG-NEW-002",
@@ -9203,6 +9498,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-013",
+    "title_jp": "Neko Hacker Ⅱ: Stray",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2021-07-14",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 14,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-013.jpg",
+      "source": "local",
+      "size": 399913
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1572783240",
+      "spotify": "https://open.spotify.com/album/4nZEJTk9T5cfUBY2GzGHak"
+    }
+  },
+  {
     "id": "114284",
     "title_jp": "Amateras Records 10th Anniversary Best",
     "title_romaji": "Amateras Records 10th Anniversary Best",
@@ -9388,6 +9713,35 @@
       "vgmdb": "https://vgmdb.net/album/130139"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-008",
+    "title_jp": "あきこい / Aintops",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2021-11-14",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-008.jpg",
+      "source": "local",
+      "size": 321323
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1591918399"
+    }
   },
   {
     "id": "115192",
@@ -9661,6 +10015,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-020",
+    "title_jp": "うごくちゃんコレクション",
+    "title_romaji": null,
+    "title_en": "Ugokuchan Collection",
+    "release_date": "2022-02-11",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-020.jpg",
+      "source": "local",
+      "size": 561066
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1607216039",
+      "spotify": "https://open.spotify.com/album/2jxoJyf2EPK5UCbVlrrja0"
+    }
+  },
+  {
     "id": "139360",
     "title_jp": "Beat Saber Original Soundtrack V",
     "title_romaji": "Beat Saber Original Soundtrack V",
@@ -9752,8 +10136,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 9,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -10108,8 +10492,8 @@
     "format": "CD",
     "publisher": null,
     "tracks_count": 9,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Featured Artist"
     ],
@@ -10440,8 +10824,8 @@
     "format": "CD",
     "publisher": "t+pazolite (C.H.S)",
     "tracks_count": 14,
-    "her_tracks_count": 0,
-    "her_ratio": "none",
+    "her_tracks_count": 1,
+    "her_ratio": "some",
     "roles": [
       "Special Appearance",
       "Special Thanks"
@@ -10679,29 +11063,6 @@
     "title_jp": "最強頂戴girl♡",
     "title_romaji": "Saikyo Choudai Girl",
     "title_en": "Saikyo Choudai Girl",
-    "release_date": "2024-01-01",
-    "catalog": "TIE-IN",
-    "event": null,
-    "format": "Game/Anime tie-in",
-    "publisher": null,
-    "tracks_count": 1,
-    "her_tracks_count": 1,
-    "her_ratio": "all",
-    "roles": [
-      "Vocals"
-    ],
-    "display_role": "tiein",
-    "cover": null,
-    "sources": {
-      "vgmdb": null
-    },
-    "external_links": {}
-  },
-  {
-    "id": "DIG-SINGLE-005",
-    "title_jp": "ポイズンガール",
-    "title_romaji": "Poison Girl",
-    "title_en": "Poison Girl",
     "release_date": "2024-01-01",
     "catalog": "TIE-IN",
     "event": null,
@@ -11043,6 +11404,29 @@
     "catalog": "TIE-IN",
     "event": null,
     "format": "Visual novel ED song",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-SINGLE-005",
+    "title_jp": "ポイズンガール",
+    "title_romaji": "Poison Girl",
+    "title_en": "Poison Girl",
+    "release_date": "2024-08-28",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game/Anime tie-in",
     "publisher": null,
     "tracks_count": 1,
     "her_tracks_count": 1,
@@ -11432,6 +11816,35 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-001",
+    "title_jp": "みずいろめいどろーむ (feat. ななひら)",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-03-23",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Performer"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-001.jpg",
+      "source": "local",
+      "size": 233730
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1803776156"
+    }
+  },
+  {
     "id": "148733",
     "title_jp": "無垢なる書架に祝福を / ななひら",
     "title_romaji": "Blessings to the innocent bookshelf / Nanahira",
@@ -11515,6 +11928,60 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-002",
+    "title_jp": "Neko Hacker Ⅳ: Mirai Post",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-06-13",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 13,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-002.jpg",
+      "source": "local",
+      "size": 367623
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1816953932"
+    }
+  },
+  {
+    "id": "DIG-HUNT-004",
+    "title_jp": "アストロ・ミステロ (かいじゅうパレット テーマソング アレンジMV)",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-07-01",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Short MV",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://youtu.be/Dl_z4yZUUAk"
+    }
+  },
+  {
     "id": "150934",
     "title_jp": "777 (Vocal ver.) feat.ななひら / RoughSketch",
     "title_romaji": "777 (Vocal ver.) feat.Nanahira / RoughSketch",
@@ -11536,6 +12003,36 @@
       "vgmdb": "https://vgmdb.net/album/150934"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-015",
+    "title_jp": "Junkie Honey!",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-07-07",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-015.jpg",
+      "source": "local",
+      "size": 303175
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1821804602",
+      "spotify": "https://open.spotify.com/album/3HgIDpMkOIZMS1WHmekSqZ"
+    }
   },
   {
     "id": "DIG-001",
@@ -11638,6 +12135,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-021",
+    "title_jp": "Cytus II-Rin (Original Soundtracks)",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-09-08",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 10,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-021.jpg",
+      "source": "local",
+      "size": 96519
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1834615628",
+      "spotify": "https://open.spotify.com/album/1MdFDWbR97lQrYL5jVRGEC"
+    }
+  },
+  {
     "id": "DIG-004",
     "title_jp": "JOY JOY JOY!!! ～ジョイオンプーのテーマ～",
     "title_romaji": null,
@@ -11659,6 +12186,32 @@
       "vgmdb": null
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-005",
+    "title_jp": "SoftBank 光/SoftBank Air 新CMソング (2025-10)",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2025-10-08",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "CM",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://www.youtube.com/watch?v=7KG0uTPPjxM",
+      "official": "https://x.com/SoftBank/status/1975856229357691385"
+    }
   },
   {
     "id": "DIG-003",
@@ -11792,6 +12345,36 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-012",
+    "title_jp": "D.I. Style",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-01-21",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 12,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-012.jpg",
+      "source": "local",
+      "size": 536380
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1869202342",
+      "spotify": "https://open.spotify.com/album/0l45gk5awOWm3jEGCaH4FH"
+    }
+  },
+  {
     "id": "DIG-005",
     "title_jp": "Sugary Bouquet",
     "title_romaji": null,
@@ -11813,6 +12396,36 @@
       "vgmdb": null
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-011",
+    "title_jp": "Star Rail HoYoFair Music Selection #5 \"Astronuts\"",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-02-07",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 21,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-011.jpg",
+      "source": "local",
+      "size": 454908
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/1875530004",
+      "spotify": "https://open.spotify.com/album/0brOjqkiijV7CEacySRwCC"
+    }
   },
   {
     "id": "155464",
@@ -11917,6 +12530,31 @@
       "vgmdb": "https://vgmdb.net/album/158943"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-YY-001",
+    "title_jp": "YUNYUN HARDCORE",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-04-17",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "MV",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://youtu.be/b712-HFa6yA"
+    }
   },
   {
     "id": "DIG-NEW-001",
