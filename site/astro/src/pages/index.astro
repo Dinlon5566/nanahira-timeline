@@ -1,0 +1,17 @@
+---
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const target = `${base}/ja/`;
+---
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <title>ななひら / Nanahira</title>
+    <script is:inline set:html={`location.replace(${JSON.stringify(target)});`} />
+  </head>
+  <body>
+    <p><a href={target}>ななひら / Nanahira</a></p>
+  </body>
+</html>

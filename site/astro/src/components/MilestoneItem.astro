@@ -1,0 +1,19 @@
+---
+import type { MilestoneEvent } from '../lib/dataTypes';
+import type { Lang } from '../lib/i18n';
+
+interface Props {
+  milestone: MilestoneEvent;
+  lang: Lang;
+}
+const { milestone, lang } = Astro.props;
+const cls = milestone.highlight ? 'milestone milestone--highlight' : 'milestone';
+const icon = milestone.highlight ? '★' : '◆';
+const label = milestone.label[lang] || milestone.label.ja;
+---
+<div class={cls}>
+  <span class="milestone-icon">{icon}</span>
+  <span class="milestone-label">
+    {milestone.link ? <a href={milestone.link} target="_blank" rel="noopener">{label}</a> : label}
+  </span>
+</div>

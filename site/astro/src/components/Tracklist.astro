@@ -1,0 +1,54 @@
+---
+import type { Track } from '../lib/dataTypes';
+import { t, type Lang } from '../lib/i18n';
+
+interface Props {
+  tracks: Track[];
+  lang: Lang;
+  /** true when the album has any non-her track (offer the toggle) */
+  hasOther: boolean;
+  /** true when ALL album tracks are hers — no toggle needed */
+  allHers: boolean;
+}
+const { tracks, lang, hasOther, allHers } = Astro.props;
+
+// Group by disc
+const byDisc = new Map<number, Track[]>();
+for (const tr of tracks) {
+  if (!byDisc.has(tr.disc)) byDisc.set(tr.disc, []);
+  byDisc.get(tr.disc)!.push(tr);
+}
+const discs = [...byDisc.keys()].sort((a, b) => a - b);
+const multiDisc = discs.length > 1;
+---
+<ol class="tracklist is-open">
+  {discs.map(d => (
+    <>
+      {multiDisc && <li class="track-disc-header"><strong>Disc {d}</strong></li>}
+      {byDisc.get(d)!.map(tr => (
+        <li class={`track ${tr.her ? 'track--her' : ''}`}>
+          <span class="tn">{multiDisc ? `${d}·${tr.track_no}` : tr.track_no}</span>
+          <span class="tt">
+            {tr.title}
+            {tr.duration && <span class="dur"> · {tr.duration}</span>}
+          </span>
+        </li>
+      ))}
+    </>
+  ))}
+</ol>
+{hasOther && !allHers && (
+  <button class="track-toggle-all" type="button">
+    <span data-label-show>{t(lang, 'tracklist.showAll')} ▾</span>
+    <span data-label-hide hidden>{t(lang, 'tracklist.herOnly')} ▴</span>
+  </button>
+)}
+
+<style>
+  .track-disc-header {
+    padding: 4px 0 2px 4px;
+    color: #666;
+    font-size: 0.8rem;
+  }
+  .track .dur { color: #bbb; font-size: 0.75rem; margin-left: 4px; }
+</style>

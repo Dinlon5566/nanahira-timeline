@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+.astro/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets / local env
+.env
+.env.local
+cookies.json
+
+# Intermediate / cache files in research/ and scripts/
+site/astro/scripts/covers_tried*.json
+site/astro/scripts/vgmdb_covers_tried*.json
+site/astro/scripts/missing_covers.md

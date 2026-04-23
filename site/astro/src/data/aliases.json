@@ -1,0 +1,172 @@
+[
+  {
+    "name_jp": "ななひら",
+    "name_en": "Nanahira",
+    "type": "stage_name",
+    "since": "2008",
+    "status": "active",
+    "description": {
+      "ja": "主名義。ソロ・サークル（Confetto）・ゲスト参加などすべての主力活動はこの名義。",
+      "en": "Primary stage name. All main activity — solo work, Confetto circle releases, guest features — is released under this name.",
+      "zh": "主名義。個人、Confetto 社團與客串都以此名義發行。"
+    },
+    "links": {
+      "website": "https://nanahira.jp/",
+      "twitter": "https://x.com/nanahira",
+      "youtube": "https://www.youtube.com/@Nanahira_Confetto"
+    }
+  },
+  {
+    "name_jp": "ななひらP",
+    "name_en": "NanahiraP",
+    "type": "stage_name",
+    "status": "ongoing",
+    "description": {
+      "ja": "自身の UTAU 音源「春歌ナナ」でオリジナル曲を作る際の名義。",
+      "en": "Producer alias when composing original songs with her own UTAU voicebank Haruka Nana.",
+      "zh": "以自有 UTAU 音源「春歌ナナ」製作原創曲時使用的名義。"
+    }
+  },
+  {
+    "name_jp": "虹乃まほろ",
+    "name_en": "Nijino Mahoro",
+    "type": "vtuber",
+    "since": "2017-07",
+    "status": "active",
+    "affiliation": "KAI-YOU, Inc.",
+    "description": {
+      "ja": "VTuber 名義。KAI-YOU のインターン・キャスターとして「まほろニュースネットワーク」を担当。草分け世代の一人。",
+      "en": "VTuber alias, launched July 2017 under KAI-YOU Inc. as an intern caster for the \"Mahoro News Network\". Often cited as one of the earliest VTubers.",
+      "zh": "VTuber 名義。於 KAI-YOU 擔任主播並主持《まほろニュースネットワーク》。VTuber 草創期的先驅之一。"
+    },
+    "links": {
+      "youtube": "https://www.youtube.com/channel/UCtCXaX0zEvYSgdkp-Po24TQ",
+      "twitter": "https://x.com/nijinomahoro"
+    }
+  },
+  {
+    "name_jp": "春歌ナナ",
+    "name_en": "Haruka Nana",
+    "type": "synth_voice",
+    "since": "2009",
+    "status": "active",
+    "description": {
+      "ja": "自身の声を元にした音声ライブラリ（UTAU, 2009〜 / VOICEVOX 7th世代, 2023〜）。キャラクターデザインはなぎみそ。10歳・137cm の少女設定。",
+      "en": "Voice synthesis character based on her voice: originally UTAU (2009), later VOICEVOX 7th-gen (2023). Character designed by Nagimiso; depicted as a 10-year-old, 137 cm girl.",
+      "zh": "以她的聲音為基礎的合成語音角色：最早是 UTAU（2009），後來是 VOICEVOX 7 代（2023）。角色設計為なぎみそ，設定為 10 歲、137 cm 的少女。"
+    },
+    "links": {
+      "website": "https://voicevox.hiroshiba.jp/dormitory/haruka_nana/"
+    }
+  },
+  {
+    "name_jp": "ぞん子",
+    "name_en": "Zonko",
+    "type": "synth_voice",
+    "since": "2024-12-29",
+    "status": "active",
+    "affiliation": "ZONe ENERGY (Suntory)",
+    "description": {
+      "ja": "エナジードリンク ZONe の公式キャラクター「ぞん子」の声を担当。LAM による描き下ろし。VOICEVOX SDK でもリリース。",
+      "en": "Voice of \"Zonko\", the official mascot character for ZONe ENERGY (Suntory), designed by LAM. Also released as a VOICEVOX SDK voice.",
+      "zh": "ZONe 能量飲料官方吉祥物「ぞん子」配音（LAM 設計），亦作為 VOICEVOX SDK 聲音發行。"
+    },
+    "links": {
+      "website": "https://zonko.zone-energy.jp/"
+    }
+  },
+  {
+    "name_jp": "Confetto",
+    "type": "unit",
+    "since": "2012-08",
+    "status": "active",
+    "description": {
+      "ja": "主催サークル。ほぼ全てのソロアルバムと関連 CD はこのサークル名義。",
+      "en": "The circle she founded in August 2012 at Comiket 82; publishes nearly all her solo and duo releases.",
+      "zh": "她主導的社團，2012 年 C82 成立，幾乎所有個人與搭檔發行都出自此。"
+    },
+    "links": {
+      "website": "https://confetto.booth.pm/"
+    }
+  },
+  {
+    "name_jp": "Lovelicot",
+    "type": "unit",
+    "since": "2015",
+    "description": {
+      "ja": "ここん ここ（琴乃役）とのデュオユニット（ななひらはリコリス役）。",
+      "en": "Duo unit with Kokon Koko (Kotono) — Nanahira voices Licorice.",
+      "zh": "與ここん ここ（琴乃）組成的雙人組合（Nanahira 飾リコリス）。"
+    }
+  },
+  {
+    "name_jp": "pomme'tto",
+    "type": "unit",
+    "description": {
+      "ja": "ここん ここ、ももばこ とのトリオユニット（Confetto 系）。",
+      "en": "Trio unit with Kokon Koko and Momobako.",
+      "zh": "與ここん ここ、ももばこ的三人組合（Confetto 系）。"
+    }
+  },
+  {
+    "name_jp": "SHAKING PINK",
+    "type": "unit",
+    "description": {
+      "ja": "ここん ここ、ももばこ とのトリオ（秋葉工房 KTHT- 系）。",
+      "en": "Trio unit with Kokon Koko and Momobako under the 秋葉工房 (KTHT-) label.",
+      "zh": "與ここん ここ、ももばこ的三人組合（秋葉工房 KTHT- 系）。"
+    }
+  },
+  {
+    "name_jp": "末広アンテナ",
+    "name_en": "Suehiro Antenna",
+    "type": "unit",
+    "since": "2014",
+    "description": {
+      "ja": "声優・有野いくとのアイドルユニット。TOKYO FM のラジオコーナーも担当。",
+      "en": "Idol unit with voice actress Arino Iku; also hosts a TOKYO FM radio segment.",
+      "zh": "與聲優有野いく組成的偶像單位。亦主持 TOKYO FM 廣播單元。"
+    }
+  },
+  {
+    "name_jp": "ななmega",
+    "type": "unit",
+    "description": {
+      "ja": "mega とのデュオユニット。",
+      "en": "Duo unit with mega.",
+      "zh": "與 mega 組成的雙人單位。"
+    }
+  },
+  {
+    "name_jp": "Nanapomi (ななポミ)",
+    "type": "unit",
+    "since": "2023",
+    "description": {
+      "ja": "ころねぽち とのデュオユニット。",
+      "en": "Duo unit with Pochi Korone.",
+      "zh": "與ころねぽち組成的雙人單位。"
+    }
+  },
+  {
+    "name_jp": "野増菜かなで",
+    "name_en": "Kanade Nomashina",
+    "type": "character",
+    "affiliation": "SOUND VOLTEX EXCEED GEAR (KONAMI)",
+    "description": {
+      "ja": "SOUND VOLTEX のキャラクター「超超超超特盛☆」ラーメン屋店員。CV 担当。",
+      "en": "Ramen-shop waitress character in SOUND VOLTEX EXCEED GEAR. Voiced by Nanahira.",
+      "zh": "SOUND VOLTEX 的拉麵店店員角色。Nanahira 擔任配音。"
+    }
+  },
+  {
+    "name_jp": "Qちゃん",
+    "type": "character",
+    "affiliation": "ゆんゆん電波シンドローム (Alliance Arts / HARDCORE TANO*C)",
+    "since": "2025",
+    "description": {
+      "ja": "2025 年発表のゲーム『ゆんゆん電波シンドローム』主人公。ヒキコモリ少女。",
+      "en": "Protagonist of the 2025 game \"Yun Yun Dempa Syndrome\" — a hikikomori girl. Nanahira voices her.",
+      "zh": "2025 年《ゆんゆん電波シンドローム》主角（宅系少女），Nanahira 配音。"
+    }
+  }
+]

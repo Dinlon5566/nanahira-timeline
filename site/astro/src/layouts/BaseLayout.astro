@@ -1,0 +1,72 @@
+---
+import { t, LANGS, type Lang } from '../lib/i18n';
+import '../styles/global.css';
+
+interface Props {
+  lang: Lang;
+  title?: string;
+  description?: string;
+}
+
+const { lang, title, description } = Astro.props;
+const pageTitle = title ? `${title} — ${t(lang, 'site.title')}` : t(lang, 'site.title');
+const desc = description ?? t(lang, 'meta.description');
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/, '') || '/';
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={desc} />
+    <title>{pageTitle}</title>
+    <link rel="icon" href={`${base}/favicon.svg`} type="image/svg+xml" />
+    {LANGS.map((l) => (
+      <link rel="alternate" hreflang={l} href={`${base}/${l}${currentPath}`} />
+    ))}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-brand">
+        <h1 class="site-title">
+          <a href={`${base}/${lang}/`}>{t(lang, 'site.title')}</a>
+        </h1>
+        <p class="site-sub">
+          <span>{t(lang, 'site.sub')}</span>
+          <span class="fanmade-badge">{t(lang, 'header.fanmade')}</span>
+        </p>
+      </div>
+      <nav class="site-nav" aria-label="Primary">
+        <span class="lang-switch">
+          {LANGS.map((l) => (
+            <a
+              class={l === lang ? 'is-current' : ''}
+              href={`${base}/${l}${currentPath}`}
+              lang={l}
+              aria-current={l === lang ? 'true' : undefined}
+            >{l}</a>
+          ))}
+        </span>
+      </nav>
+    </header>
+
+    <main><slot /></main>
+
+    <button class="back-to-top" type="button" aria-label="Back to top" hidden>↑</button>
+    <script>
+      const btn = document.querySelector<HTMLButtonElement>('.back-to-top');
+      if (btn) {
+        const onScroll = () => { btn.hidden = window.scrollY < 400; };
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+        btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+      }
+    </script>
+
+    <footer class="site-footer">
+      <p class="fan-disclaimer">{t(lang, 'footer.fanmade')}</p>
+      <p>{t(lang, 'footer.dataSources')}</p>
+    </footer>
+  </body>
+</html>

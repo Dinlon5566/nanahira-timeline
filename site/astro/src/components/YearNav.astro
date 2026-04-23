@@ -1,0 +1,20 @@
+---
+import type { Year } from '../lib/dataTypes';
+
+interface Props {
+  years: Year[];
+}
+const { years } = Astro.props;
+---
+<nav class="year-nav" aria-label="Year navigation">
+  <ol>
+    {years.map(y => (
+      <li>
+        <a href={`#year-${y.year}`} data-year={y.year}>
+          <span class="yn-year">{y.year}</span>
+          <span class="yn-count">{y.release_count + y.milestone_count}</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+</nav>

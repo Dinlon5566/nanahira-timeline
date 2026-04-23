@@ -1,0 +1,18 @@
+---
+import { t, type Lang } from '../lib/i18n';
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+---
+<nav class="filters" aria-label="Filters">
+  <fieldset class="filter-group">
+    <legend>{t(lang, 'filter.display')}</legend>
+    <label><input type="checkbox" checked data-filter="type-release" /> {t(lang, 'filter.release')}</label>
+    <label><input type="checkbox" checked data-filter="type-milestone" /> {t(lang, 'filter.milestone')}</label>
+  </fieldset>
+  <fieldset class="filter-group">
+    <legend>{t(lang, 'filter.role')}</legend>
+    <label><input type="checkbox" checked data-filter="role-lead" /> {t(lang, 'filter.role.lead')}</label>
+    <label><input type="checkbox" checked data-filter="role-guest" /> {t(lang, 'filter.role.guest')}</label>
+    <label><input type="checkbox" checked data-filter="role-tiein" /> {t(lang, 'filter.role.tiein')}</label>
+  </fieldset>
+</nav>

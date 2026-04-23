@@ -1,0 +1,2561 @@
+{
+  "years": [
+    {
+      "year": 2026,
+      "release_count": 9,
+      "milestone_count": 2,
+      "events": [
+        {
+          "type": "release",
+          "date": "2026-04-26",
+          "album_id": "158972"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-26",
+          "album_id": "159226"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-26",
+          "album_id": "159210"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-04-26",
+          "label": {
+            "ja": "M3-2026春 出展",
+            "en": "M3-2026 Spring booth",
+            "zh": "M3-2026春 出展"
+          },
+          "category": "release"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-23",
+          "album_id": "DIG-NEW-001"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-08",
+          "album_id": "158943"
+        },
+        {
+          "type": "release",
+          "date": "2026-02-21",
+          "album_id": "157519"
+        },
+        {
+          "type": "release",
+          "date": "2026-02-11",
+          "album_id": "155464"
+        },
+        {
+          "type": "release",
+          "date": "2026-02-11",
+          "album_id": "155465"
+        },
+        {
+          "type": "release",
+          "date": "2026-02-01",
+          "album_id": "DIG-005"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-01-31",
+          "label": {
+            "ja": "第3回単独ライブ @池袋HUMAX — 約6年ぶりの有観客ライブ",
+            "en": "3rd solo live concert @ Ikebukuro HUMAX — first in-person live in ~6 years",
+            "zh": "第三次 Live @池袋 HUMAX — 約 6 年來首次線下個唱"
+          },
+          "category": "live",
+          "highlight": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "release_count": 20,
+      "milestone_count": 2,
+      "events": [
+        {
+          "type": "release",
+          "date": "2025-12-31",
+          "album_id": "156240"
+        },
+        {
+          "type": "release",
+          "date": "2025-11-15",
+          "album_id": "154234"
+        },
+        {
+          "type": "release",
+          "date": "2025-10-26",
+          "album_id": "153914"
+        },
+        {
+          "type": "release",
+          "date": "2025-10-26",
+          "album_id": "153593"
+        },
+        {
+          "type": "release",
+          "date": "2025-10-11",
+          "album_id": "DIG-003"
+        },
+        {
+          "type": "release",
+          "date": "2025-10-02",
+          "album_id": "DIG-004"
+        },
+        {
+          "type": "milestone",
+          "date": "2025-10-02",
+          "label": {
+            "ja": "JOYSOUND 公式キャラクター「ジョイオンプー」テーマソング歌唱",
+            "en": "JOYSOUND mascot \"Joyonpu\" theme song vocal",
+            "zh": "JOYSOUND 官方吉祥物「ジョイオンプー」主題曲演唱"
+          },
+          "category": "media"
+        },
+        {
+          "type": "milestone",
+          "date": "2025-09-08",
+          "label": {
+            "ja": "「ゆんゆん電波シンドローム」Q ちゃん CV 起用発表",
+            "en": "Cast as Q-chan in \"Yun Yun Dempa Syndrome\"",
+            "zh": "「ゆんゆん電波シンドローム」Q ちゃん CV 公布"
+          },
+          "category": "media"
+        },
+        {
+          "type": "release",
+          "date": "2025-09-01",
+          "album_id": "DIG-002"
+        },
+        {
+          "type": "release",
+          "date": "2025-08-17",
+          "album_id": "152019"
+        },
+        {
+          "type": "release",
+          "date": "2025-08-17",
+          "album_id": "152530"
+        },
+        {
+          "type": "release",
+          "date": "2025-07-20",
+          "album_id": "DIG-001"
+        },
+        {
+          "type": "release",
+          "date": "2025-07-07",
+          "album_id": "150934"
+        },
+        {
+          "type": "release",
+          "date": "2025-04-27",
+          "album_id": "148733"
+        },
+        {
+          "type": "release",
+          "date": "2025-04-27",
+          "album_id": "148609"
+        },
+        {
+          "type": "release",
+          "date": "2025-04-27",
+          "album_id": "148725"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-006"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-010"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-011"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-SINGLE-001"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-SINGLE-002"
+        },
+        {
+          "type": "release",
+          "date": "2025-01-01",
+          "album_id": "DIG-SINGLE-003"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "release_count": 24,
+      "milestone_count": 3,
+      "events": [
+        {
+          "type": "release",
+          "date": "2024-12-29",
+          "album_id": "144787"
+        },
+        {
+          "type": "milestone",
+          "date": "2024-12-29",
+          "label": {
+            "ja": "VOICEVOX「ぞん子」リリース（ZONe 公式キャラクター）",
+            "en": "VOICEVOX \"Zonko\" released (ZONe official mascot)",
+            "zh": "VOICEVOX「ぞん子」發布（ZONe 官方吉祥物）"
+          },
+          "category": "media",
+          "link": "https://voicevox.hiroshiba.jp/dormitory/zonko/"
+        },
+        {
+          "type": "release",
+          "date": "2024-12-27",
+          "album_id": "146796"
+        },
+        {
+          "type": "release",
+          "date": "2024-11-07",
+          "album_id": "144269"
+        },
+        {
+          "type": "release",
+          "date": "2024-10-27",
+          "album_id": "143583"
+        },
+        {
+          "type": "release",
+          "date": "2024-10-27",
+          "album_id": "143940"
+        },
+        {
+          "type": "release",
+          "date": "2024-10-27",
+          "album_id": "154392"
+        },
+        {
+          "type": "release",
+          "date": "2024-10-25",
+          "album_id": "143726"
+        },
+        {
+          "type": "milestone",
+          "date": "2024-10-10",
+          "label": {
+            "ja": "活動15周年",
+            "en": "15th anniversary of her career",
+            "zh": "出道 15 週年"
+          },
+          "category": "anniversary"
+        },
+        {
+          "type": "release",
+          "date": "2024-10-08",
+          "album_id": "144084"
+        },
+        {
+          "type": "release",
+          "date": "2024-08-30",
+          "album_id": "140207"
+        },
+        {
+          "type": "release",
+          "date": "2024-07-26",
+          "album_id": "138360"
+        },
+        {
+          "type": "release",
+          "date": "2024-07-26",
+          "album_id": "DIG-TIE-002"
+        },
+        {
+          "type": "release",
+          "date": "2024-05-03",
+          "album_id": "141732"
+        },
+        {
+          "type": "release",
+          "date": "2024-04-28",
+          "album_id": "138780"
+        },
+        {
+          "type": "release",
+          "date": "2024-04-28",
+          "album_id": "138697"
+        },
+        {
+          "type": "release",
+          "date": "2024-04-28",
+          "album_id": "138694"
+        },
+        {
+          "type": "release",
+          "date": "2024-03-13",
+          "album_id": "135147"
+        },
+        {
+          "type": "release",
+          "date": "2024-03-13",
+          "album_id": "135148"
+        },
+        {
+          "type": "release",
+          "date": "2024-02-27",
+          "album_id": "DIG-007"
+        },
+        {
+          "type": "release",
+          "date": "2024-02-27",
+          "album_id": "DIG-008"
+        },
+        {
+          "type": "release",
+          "date": "2024-02-27",
+          "album_id": "DIG-009"
+        },
+        {
+          "type": "milestone",
+          "date": "2024-02-27",
+          "label": {
+            "ja": "「POKÉDANCE」公開 — メインストリーム・ヒット",
+            "en": "POKÉDANCE released — mainstream breakthrough",
+            "zh": "「POKÉDANCE」公開 — 主流出圈代表作"
+          },
+          "category": "breakthrough",
+          "highlight": true,
+          "link": "https://x.com/nanahira/status/1762353688990146955"
+        },
+        {
+          "type": "release",
+          "date": "2024-01-25",
+          "album_id": "136774"
+        },
+        {
+          "type": "release",
+          "date": "2024-01-17",
+          "album_id": "133531"
+        },
+        {
+          "type": "release",
+          "date": "2024-01-01",
+          "album_id": "DIG-SINGLE-004"
+        },
+        {
+          "type": "release",
+          "date": "2024-01-01",
+          "album_id": "DIG-SINGLE-005"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "release_count": 21,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "release",
+          "date": "2023-12-30",
+          "album_id": "134291"
+        },
+        {
+          "type": "release",
+          "date": "2023-10-29",
+          "album_id": "133737"
+        },
+        {
+          "type": "release",
+          "date": "2023-10-29",
+          "album_id": "133754"
+        },
+        {
+          "type": "release",
+          "date": "2023-10-29",
+          "album_id": "133540"
+        },
+        {
+          "type": "release",
+          "date": "2023-10-10",
+          "album_id": "133269"
+        },
+        {
+          "type": "release",
+          "date": "2023-10-01",
+          "album_id": "132830"
+        },
+        {
+          "type": "release",
+          "date": "2023-08-25",
+          "album_id": "130965"
+        },
+        {
+          "type": "release",
+          "date": "2023-04-30",
+          "album_id": "129048"
+        },
+        {
+          "type": "release",
+          "date": "2023-04-30",
+          "album_id": "129038"
+        },
+        {
+          "type": "release",
+          "date": "2023-04-30",
+          "album_id": "128840"
+        },
+        {
+          "type": "milestone",
+          "date": "2023-03-20",
+          "label": {
+            "ja": "VOICEVOX「春歌ナナ」公開",
+            "en": "VOICEVOX \"Haruka Nana\" released",
+            "zh": "VOICEVOX「春歌ナナ」公開"
+          },
+          "category": "media",
+          "highlight": true,
+          "link": "https://voicevox.hiroshiba.jp/dormitory/haruka_nana/"
+        },
+        {
+          "type": "release",
+          "date": "2023-03-15",
+          "album_id": "125751"
+        },
+        {
+          "type": "release",
+          "date": "2023-03-09",
+          "album_id": "142892"
+        },
+        {
+          "type": "release",
+          "date": "2023-03-01",
+          "album_id": "125518"
+        },
+        {
+          "type": "release",
+          "date": "2023-02-15",
+          "album_id": "125452"
+        },
+        {
+          "type": "release",
+          "date": "2023-02-15",
+          "album_id": "124493"
+        },
+        {
+          "type": "release",
+          "date": "2023-02-15",
+          "album_id": "125451"
+        },
+        {
+          "type": "release",
+          "date": "2023-01-01",
+          "album_id": "DIG-SINGLE-006"
+        },
+        {
+          "type": "release",
+          "date": "2023-01-01",
+          "album_id": "DIG-SINGLE-007"
+        },
+        {
+          "type": "release",
+          "date": "2023-01-01",
+          "album_id": "DIG-SINGLE-008"
+        },
+        {
+          "type": "release",
+          "date": "2023-01-01",
+          "album_id": "DIG-SINGLE-009"
+        },
+        {
+          "type": "release",
+          "date": "2023-01-01",
+          "album_id": "DIG-SINGLE-053"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "release_count": 24,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2022-12-27",
+          "album_id": "129503"
+        },
+        {
+          "type": "release",
+          "date": "2022-12-27",
+          "album_id": "129504"
+        },
+        {
+          "type": "release",
+          "date": "2022-12-25",
+          "album_id": "131815"
+        },
+        {
+          "type": "release",
+          "date": "2022-12-24",
+          "album_id": "138278"
+        },
+        {
+          "type": "release",
+          "date": "2022-12-24",
+          "album_id": "138279"
+        },
+        {
+          "type": "release",
+          "date": "2022-10-31",
+          "album_id": "138272"
+        },
+        {
+          "type": "release",
+          "date": "2022-10-01",
+          "album_id": "DIG-TIE-001"
+        },
+        {
+          "type": "release",
+          "date": "2022-09-07",
+          "album_id": "152387"
+        },
+        {
+          "type": "release",
+          "date": "2022-08-13",
+          "album_id": "122259"
+        },
+        {
+          "type": "release",
+          "date": "2022-07-18",
+          "album_id": "120185"
+        },
+        {
+          "type": "release",
+          "date": "2022-05-27",
+          "album_id": "119587"
+        },
+        {
+          "type": "release",
+          "date": "2022-04-28",
+          "album_id": "119633"
+        },
+        {
+          "type": "release",
+          "date": "2022-04-24",
+          "album_id": "127365"
+        },
+        {
+          "type": "release",
+          "date": "2022-03-31",
+          "album_id": "DIG-TIE-003"
+        },
+        {
+          "type": "release",
+          "date": "2022-03-26",
+          "album_id": "127212"
+        },
+        {
+          "type": "release",
+          "date": "2022-03-26",
+          "album_id": "129501"
+        },
+        {
+          "type": "release",
+          "date": "2022-03-16",
+          "album_id": "117313"
+        },
+        {
+          "type": "release",
+          "date": "2022-03-08",
+          "album_id": "139360"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-010"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-011"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-012"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-013"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-014"
+        },
+        {
+          "type": "release",
+          "date": "2022-01-01",
+          "album_id": "DIG-SINGLE-015"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "release_count": 21,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2021-12-31",
+          "album_id": "117437"
+        },
+        {
+          "type": "release",
+          "date": "2021-12-31",
+          "album_id": "136141"
+        },
+        {
+          "type": "release",
+          "date": "2021-12-17",
+          "album_id": "120168"
+        },
+        {
+          "type": "release",
+          "date": "2021-12-15",
+          "album_id": "115096"
+        },
+        {
+          "type": "release",
+          "date": "2021-11-24",
+          "album_id": "115192"
+        },
+        {
+          "type": "release",
+          "date": "2021-10-31",
+          "album_id": "130139"
+        },
+        {
+          "type": "release",
+          "date": "2021-10-24",
+          "album_id": "115216"
+        },
+        {
+          "type": "release",
+          "date": "2021-09-08",
+          "album_id": "114140"
+        },
+        {
+          "type": "release",
+          "date": "2021-08-28",
+          "album_id": "114280"
+        },
+        {
+          "type": "release",
+          "date": "2021-08-14",
+          "album_id": "114284"
+        },
+        {
+          "type": "release",
+          "date": "2021-08-14",
+          "album_id": "112791"
+        },
+        {
+          "type": "release",
+          "date": "2021-08-14",
+          "album_id": "DIG-NEW-003"
+        },
+        {
+          "type": "release",
+          "date": "2021-06-26",
+          "album_id": "127208"
+        },
+        {
+          "type": "release",
+          "date": "2021-06-26",
+          "album_id": "127209"
+        },
+        {
+          "type": "release",
+          "date": "2021-04-25",
+          "album_id": "112537"
+        },
+        {
+          "type": "release",
+          "date": "2021-03-21",
+          "album_id": "110071"
+        },
+        {
+          "type": "release",
+          "date": "2021-03-17",
+          "album_id": "107560"
+        },
+        {
+          "type": "release",
+          "date": "2021-03-17",
+          "album_id": "109487"
+        },
+        {
+          "type": "release",
+          "date": "2021-01-05",
+          "album_id": "127522"
+        },
+        {
+          "type": "release",
+          "date": "2021-01-04",
+          "album_id": "125816"
+        },
+        {
+          "type": "release",
+          "date": "2021-01-01",
+          "album_id": "DIG-SINGLE-016"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "release_count": 29,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "release",
+          "date": "2020-11-01",
+          "album_id": "DIG-NEW-002"
+        },
+        {
+          "type": "release",
+          "date": "2020-10-07",
+          "album_id": "102124"
+        },
+        {
+          "type": "release",
+          "date": "2020-09-19",
+          "album_id": "103012"
+        },
+        {
+          "type": "release",
+          "date": "2020-09-18",
+          "album_id": "126018"
+        },
+        {
+          "type": "release",
+          "date": "2020-09-17",
+          "album_id": "107564"
+        },
+        {
+          "type": "release",
+          "date": "2020-08-09",
+          "album_id": "103274"
+        },
+        {
+          "type": "release",
+          "date": "2020-08-04",
+          "album_id": "DIG-NEW-004"
+        },
+        {
+          "type": "release",
+          "date": "2020-07-29",
+          "album_id": "109481"
+        },
+        {
+          "type": "release",
+          "date": "2020-07-15",
+          "album_id": "98250"
+        },
+        {
+          "type": "release",
+          "date": "2020-07-15",
+          "album_id": "103256"
+        },
+        {
+          "type": "release",
+          "date": "2020-06-26",
+          "album_id": "101334"
+        },
+        {
+          "type": "release",
+          "date": "2020-05-05",
+          "album_id": "98370"
+        },
+        {
+          "type": "release",
+          "date": "2020-05-05",
+          "album_id": "127521"
+        },
+        {
+          "type": "release",
+          "date": "2020-05-02",
+          "album_id": "98551"
+        },
+        {
+          "type": "milestone",
+          "date": "2020-03-28",
+          "label": {
+            "ja": "Live2D モデルで配信活動開始",
+            "en": "Began streaming with Live2D model",
+            "zh": "以 Live2D 形象開始直播活動"
+          },
+          "category": "media"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-22",
+          "album_id": "97005"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-22",
+          "album_id": "97006"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-18",
+          "album_id": "95249"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-18",
+          "album_id": "123484"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-04",
+          "album_id": "95404"
+        },
+        {
+          "type": "release",
+          "date": "2020-03-01",
+          "album_id": "130148"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-017"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-018"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-019"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-020"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-021"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-022"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-023"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-SINGLE-054"
+        },
+        {
+          "type": "release",
+          "date": "2020-01-01",
+          "album_id": "DIG-TIE-004"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "release_count": 18,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2019-12-31",
+          "album_id": "100009"
+        },
+        {
+          "type": "release",
+          "date": "2019-12-31",
+          "album_id": "120800"
+        },
+        {
+          "type": "release",
+          "date": "2019-12-31",
+          "album_id": "94852"
+        },
+        {
+          "type": "release",
+          "date": "2019-12-06",
+          "album_id": "93559"
+        },
+        {
+          "type": "release",
+          "date": "2019-10-27",
+          "album_id": "130149"
+        },
+        {
+          "type": "release",
+          "date": "2019-10-27",
+          "album_id": "99938"
+        },
+        {
+          "type": "release",
+          "date": "2019-10-06",
+          "album_id": "93231"
+        },
+        {
+          "type": "release",
+          "date": "2019-08-12",
+          "album_id": "103269"
+        },
+        {
+          "type": "release",
+          "date": "2019-08-12",
+          "album_id": "124976"
+        },
+        {
+          "type": "release",
+          "date": "2019-08-12",
+          "album_id": "98177"
+        },
+        {
+          "type": "release",
+          "date": "2019-08-11",
+          "album_id": "91503"
+        },
+        {
+          "type": "release",
+          "date": "2019-06-05",
+          "album_id": "82995"
+        },
+        {
+          "type": "release",
+          "date": "2019-04-28",
+          "album_id": "127057"
+        },
+        {
+          "type": "release",
+          "date": "2019-04-28",
+          "album_id": "86691"
+        },
+        {
+          "type": "release",
+          "date": "2019-04-28",
+          "album_id": "124943"
+        },
+        {
+          "type": "release",
+          "date": "2019-04-28",
+          "album_id": "98714"
+        },
+        {
+          "type": "release",
+          "date": "2019-01-01",
+          "album_id": "DIG-SINGLE-024"
+        },
+        {
+          "type": "release",
+          "date": "2019-01-01",
+          "album_id": "DIG-SINGLE-025"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "release_count": 35,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "127378"
+        },
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "138273"
+        },
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "147963"
+        },
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "135085"
+        },
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "127351"
+        },
+        {
+          "type": "release",
+          "date": "2018-12-30",
+          "album_id": "124941"
+        },
+        {
+          "type": "release",
+          "date": "2018-11-01",
+          "album_id": "122009"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-28",
+          "album_id": "127377"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-28",
+          "album_id": "108194"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-24",
+          "album_id": "79543"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-24",
+          "album_id": "79542"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-14",
+          "album_id": "93233"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-14",
+          "album_id": "93232"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-10",
+          "album_id": "89377"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-10",
+          "album_id": "81112"
+        },
+        {
+          "type": "release",
+          "date": "2018-10-10",
+          "album_id": "79224"
+        },
+        {
+          "type": "release",
+          "date": "2018-09-22",
+          "album_id": "91297"
+        },
+        {
+          "type": "release",
+          "date": "2018-08-10",
+          "album_id": "90819"
+        },
+        {
+          "type": "release",
+          "date": "2018-08-10",
+          "album_id": "127376"
+        },
+        {
+          "type": "release",
+          "date": "2018-08-10",
+          "album_id": "132700"
+        },
+        {
+          "type": "release",
+          "date": "2018-08-10",
+          "album_id": "103333"
+        },
+        {
+          "type": "release",
+          "date": "2018-05-06",
+          "album_id": "90829"
+        },
+        {
+          "type": "release",
+          "date": "2018-05-06",
+          "album_id": "82846"
+        },
+        {
+          "type": "release",
+          "date": "2018-05-06",
+          "album_id": "110763"
+        },
+        {
+          "type": "release",
+          "date": "2018-05-05",
+          "album_id": "141865"
+        },
+        {
+          "type": "release",
+          "date": "2018-04-29",
+          "album_id": "127374"
+        },
+        {
+          "type": "release",
+          "date": "2018-04-29",
+          "album_id": "117137"
+        },
+        {
+          "type": "release",
+          "date": "2018-04-25",
+          "album_id": "73038"
+        },
+        {
+          "type": "release",
+          "date": "2018-03-21",
+          "album_id": "125486"
+        },
+        {
+          "type": "release",
+          "date": "2018-03-07",
+          "album_id": "74093"
+        },
+        {
+          "type": "release",
+          "date": "2018-01-01",
+          "album_id": "DIG-012"
+        },
+        {
+          "type": "release",
+          "date": "2018-01-01",
+          "album_id": "DIG-SINGLE-026"
+        },
+        {
+          "type": "release",
+          "date": "2018-01-01",
+          "album_id": "DIG-SINGLE-027"
+        },
+        {
+          "type": "release",
+          "date": "2018-01-01",
+          "album_id": "DIG-SINGLE-028"
+        },
+        {
+          "type": "release",
+          "date": "2018-01-01",
+          "album_id": "DIG-SINGLE-029"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "release_count": 33,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "release",
+          "date": "2017-12-29",
+          "album_id": "134579"
+        },
+        {
+          "type": "release",
+          "date": "2017-12-29",
+          "album_id": "120590"
+        },
+        {
+          "type": "release",
+          "date": "2017-12-29",
+          "album_id": "74914"
+        },
+        {
+          "type": "release",
+          "date": "2017-11-08",
+          "album_id": "72252"
+        },
+        {
+          "type": "release",
+          "date": "2017-10-15",
+          "album_id": "141891"
+        },
+        {
+          "type": "release",
+          "date": "2017-10-15",
+          "album_id": "75098"
+        },
+        {
+          "type": "milestone",
+          "date": "2017-10-01",
+          "label": {
+            "ja": "Halozy 活動終了（サークル解散）",
+            "en": "Halozy circle disbanded",
+            "zh": "Halozy 社團活動終了（sumijun 引退）"
+          },
+          "category": "media"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-13",
+          "album_id": "74728"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "76481"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "70917"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "71070"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "70430"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "73098"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "126282"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "74966"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "129625"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "125776"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "135587"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "127322"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "72363"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "67802"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "68036"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "72909"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "95137"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "139202"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "126266"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "138241"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "133281"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-26",
+          "album_id": "63844"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-12",
+          "album_id": "69070"
+        },
+        {
+          "type": "release",
+          "date": "2017-03-01",
+          "album_id": "65469"
+        },
+        {
+          "type": "release",
+          "date": "2017-01-01",
+          "album_id": "DIG-SINGLE-030"
+        },
+        {
+          "type": "release",
+          "date": "2017-01-01",
+          "album_id": "DIG-SINGLE-031"
+        },
+        {
+          "type": "release",
+          "date": "2017-01-01",
+          "album_id": "DIG-SINGLE-032"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "release_count": 43,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2016-12-31",
+          "album_id": "127368"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-31",
+          "album_id": "121059"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-31",
+          "album_id": "126167"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-31",
+          "album_id": "127252"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-31",
+          "album_id": "66732"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-29",
+          "album_id": "71002"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-29",
+          "album_id": "95289"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-29",
+          "album_id": "65339"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "134560"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "127798"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "138265"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "134932"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "125794"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "115855"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "126445"
+        },
+        {
+          "type": "release",
+          "date": "2016-09-07",
+          "album_id": "135422"
+        },
+        {
+          "type": "release",
+          "date": "2016-09-07",
+          "album_id": "135421"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "86675"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "60663"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "74738"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "74967"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "65966"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-13",
+          "album_id": "72515"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-13",
+          "album_id": "65367"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-13",
+          "album_id": "65315"
+        },
+        {
+          "type": "release",
+          "date": "2016-07-06",
+          "album_id": "125348"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "76482"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "59836"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "60085"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "58386"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "65433"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "134281"
+        },
+        {
+          "type": "release",
+          "date": "2016-05-08",
+          "album_id": "92491"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "127363"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "126262"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "128369"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "76846"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "128366"
+        },
+        {
+          "type": "release",
+          "date": "2016-01-31",
+          "album_id": "104355"
+        },
+        {
+          "type": "release",
+          "date": "2016-01-01",
+          "album_id": "DIG-SINGLE-033"
+        },
+        {
+          "type": "release",
+          "date": "2016-01-01",
+          "album_id": "DIG-SINGLE-034"
+        },
+        {
+          "type": "release",
+          "date": "2016-01-01",
+          "album_id": "DIG-SINGLE-035"
+        },
+        {
+          "type": "release",
+          "date": "2016-01-01",
+          "album_id": "DIG-SINGLE-036"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "release_count": 37,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "68115"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "74965"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "56145"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "126866"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-30",
+          "album_id": "56656"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-30",
+          "album_id": "65329"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-23",
+          "album_id": "DIG-TIE-005"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-23",
+          "album_id": "DIG-TIE-006"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-02",
+          "album_id": "60151"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-25",
+          "album_id": "108503"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-25",
+          "album_id": "138266"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-25",
+          "album_id": "128356"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-25",
+          "album_id": "127540"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-21",
+          "album_id": "55026"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-18",
+          "album_id": "56429"
+        },
+        {
+          "type": "release",
+          "date": "2015-10-07",
+          "album_id": "55167"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "54237"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "74748"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "126130"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "55166"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "127180"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "66748"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-14",
+          "album_id": "54542"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-14",
+          "album_id": "71744"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-14",
+          "album_id": "141348"
+        },
+        {
+          "type": "release",
+          "date": "2015-07-01",
+          "album_id": "125347"
+        },
+        {
+          "type": "release",
+          "date": "2015-05-10",
+          "album_id": "68164"
+        },
+        {
+          "type": "release",
+          "date": "2015-05-10",
+          "album_id": "64411"
+        },
+        {
+          "type": "release",
+          "date": "2015-05-10",
+          "album_id": "104356"
+        },
+        {
+          "type": "release",
+          "date": "2015-05-10",
+          "album_id": "54226"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-26",
+          "album_id": "74794"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-26",
+          "album_id": "138267"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-26",
+          "album_id": "128333"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-20",
+          "album_id": "55027"
+        },
+        {
+          "type": "release",
+          "date": "2015-03-04",
+          "album_id": "50243"
+        },
+        {
+          "type": "release",
+          "date": "2015-01-01",
+          "album_id": "DIG-SINGLE-037"
+        },
+        {
+          "type": "release",
+          "date": "2015-01-01",
+          "album_id": "DIG-SINGLE-038"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "release_count": 30,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "release",
+          "date": "2014-12-30",
+          "album_id": "51174"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-30",
+          "album_id": "74524"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-30",
+          "album_id": "51041"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-30",
+          "album_id": "66749"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-29",
+          "album_id": "51644"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-29",
+          "album_id": "49789"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-29",
+          "album_id": "49831"
+        },
+        {
+          "type": "release",
+          "date": "2014-12-29",
+          "album_id": "77773"
+        },
+        {
+          "type": "release",
+          "date": "2014-10-26",
+          "album_id": "127362"
+        },
+        {
+          "type": "release",
+          "date": "2014-10-26",
+          "album_id": "128304"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-17",
+          "album_id": "74737"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-17",
+          "album_id": "47434"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-17",
+          "album_id": "47433"
+        },
+        {
+          "type": "milestone",
+          "date": "2014-08-17",
+          "label": {
+            "ja": "かめりあとのコラボ「VERSUS!」シリーズ開始（C86）",
+            "en": "Started Camellia collaboration series with VERSUS! (C86)",
+            "zh": "與 Camellia 合作系列「VERSUS!」始動（C86）"
+          },
+          "category": "release"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-16",
+          "album_id": "98411"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-16",
+          "album_id": "50122"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-16",
+          "album_id": "47816"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-16",
+          "album_id": "47513"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-16",
+          "album_id": "66195"
+        },
+        {
+          "type": "release",
+          "date": "2014-05-14",
+          "album_id": "45859"
+        },
+        {
+          "type": "release",
+          "date": "2014-05-11",
+          "album_id": "45796"
+        },
+        {
+          "type": "release",
+          "date": "2014-05-11",
+          "album_id": "45628"
+        },
+        {
+          "type": "release",
+          "date": "2014-05-11",
+          "album_id": "46151"
+        },
+        {
+          "type": "release",
+          "date": "2014-05-11",
+          "album_id": "45554"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-27",
+          "album_id": "48960"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-27",
+          "album_id": "45292"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-27",
+          "album_id": "66751"
+        },
+        {
+          "type": "release",
+          "date": "2014-02-02",
+          "album_id": "44514"
+        },
+        {
+          "type": "release",
+          "date": "2014-01-19",
+          "album_id": "44043"
+        },
+        {
+          "type": "release",
+          "date": "2014-01-01",
+          "album_id": "DIG-SINGLE-039"
+        },
+        {
+          "type": "release",
+          "date": "2014-01-01",
+          "album_id": "DIG-SINGLE-040"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "release_count": 34,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2013-12-31",
+          "album_id": "75634"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-31",
+          "album_id": "43210"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-31",
+          "album_id": "48586"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-30",
+          "album_id": "43487"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-25",
+          "album_id": "42705"
+        },
+        {
+          "type": "release",
+          "date": "2013-10-27",
+          "album_id": "108096"
+        },
+        {
+          "type": "release",
+          "date": "2013-10-27",
+          "album_id": "42239"
+        },
+        {
+          "type": "release",
+          "date": "2013-10-27",
+          "album_id": "138269"
+        },
+        {
+          "type": "release",
+          "date": "2013-10-13",
+          "album_id": "49168"
+        },
+        {
+          "type": "release",
+          "date": "2013-10-13",
+          "album_id": "45629"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "40618"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "40901"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "65321"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "43083"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "40645"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "40742"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "40956"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-11",
+          "album_id": "74736"
+        },
+        {
+          "type": "release",
+          "date": "2013-07-14",
+          "album_id": "48877"
+        },
+        {
+          "type": "release",
+          "date": "2013-05-26",
+          "album_id": "39353"
+        },
+        {
+          "type": "release",
+          "date": "2013-05-26",
+          "album_id": "39419"
+        },
+        {
+          "type": "release",
+          "date": "2013-05-26",
+          "album_id": "39158"
+        },
+        {
+          "type": "release",
+          "date": "2013-05-26",
+          "album_id": "39410"
+        },
+        {
+          "type": "release",
+          "date": "2013-05-26",
+          "album_id": "39184"
+        },
+        {
+          "type": "release",
+          "date": "2013-04-29",
+          "album_id": "75522"
+        },
+        {
+          "type": "release",
+          "date": "2013-04-29",
+          "album_id": "38913"
+        },
+        {
+          "type": "release",
+          "date": "2013-04-29",
+          "album_id": "43997"
+        },
+        {
+          "type": "release",
+          "date": "2013-04-27",
+          "album_id": "127719"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-041"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-042"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-043"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-044"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-045"
+        },
+        {
+          "type": "release",
+          "date": "2013-01-01",
+          "album_id": "DIG-SINGLE-046"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "release_count": 24,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "release",
+          "date": "2012-12-31",
+          "album_id": "75384"
+        },
+        {
+          "type": "release",
+          "date": "2012-12-31",
+          "album_id": "40644"
+        },
+        {
+          "type": "release",
+          "date": "2012-12-30",
+          "album_id": "36943"
+        },
+        {
+          "type": "release",
+          "date": "2012-12-30",
+          "album_id": "36944"
+        },
+        {
+          "type": "release",
+          "date": "2012-12-30",
+          "album_id": "36916"
+        },
+        {
+          "type": "release",
+          "date": "2012-12-29",
+          "album_id": "36662"
+        },
+        {
+          "type": "release",
+          "date": "2012-10-28",
+          "album_id": "127621"
+        },
+        {
+          "type": "release",
+          "date": "2012-10-07",
+          "album_id": "39159"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "120719"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "74476"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "34377"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "34709"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "34431"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "113584"
+        },
+        {
+          "type": "milestone",
+          "date": "2012-08-11",
+          "label": {
+            "ja": "サークル「Confetto」発足（C82）",
+            "en": "Founded circle \"Confetto\" at Comiket 82",
+            "zh": "創立社團「Confetto」（C82）"
+          },
+          "category": "anniversary",
+          "highlight": true
+        },
+        {
+          "type": "release",
+          "date": "2012-08-10",
+          "album_id": "33934"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33283"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33118"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33273"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33033"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33204"
+        },
+        {
+          "type": "release",
+          "date": "2012-05-27",
+          "album_id": "33036"
+        },
+        {
+          "type": "release",
+          "date": "2012-04-30",
+          "album_id": "40620"
+        },
+        {
+          "type": "release",
+          "date": "2012-01-01",
+          "album_id": "DIG-SINGLE-047"
+        },
+        {
+          "type": "release",
+          "date": "2012-01-01",
+          "album_id": "DIG-SINGLE-048"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "release_count": 26,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2011-12-31",
+          "album_id": "31028"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-30",
+          "album_id": "30977"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-30",
+          "album_id": "31754"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-30",
+          "album_id": "31247"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-30",
+          "album_id": "30677"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-30",
+          "album_id": "30769"
+        },
+        {
+          "type": "release",
+          "date": "2011-10-16",
+          "album_id": "31043"
+        },
+        {
+          "type": "release",
+          "date": "2011-10-16",
+          "album_id": "29598"
+        },
+        {
+          "type": "release",
+          "date": "2011-10-16",
+          "album_id": "29583"
+        },
+        {
+          "type": "release",
+          "date": "2011-09-11",
+          "album_id": "28728"
+        },
+        {
+          "type": "release",
+          "date": "2011-08-13",
+          "album_id": "27944"
+        },
+        {
+          "type": "release",
+          "date": "2011-08-13",
+          "album_id": "27836"
+        },
+        {
+          "type": "release",
+          "date": "2011-08-13",
+          "album_id": "27946"
+        },
+        {
+          "type": "release",
+          "date": "2011-08-13",
+          "album_id": "27948"
+        },
+        {
+          "type": "release",
+          "date": "2011-05-08",
+          "album_id": "25896"
+        },
+        {
+          "type": "release",
+          "date": "2011-05-08",
+          "album_id": "26017"
+        },
+        {
+          "type": "release",
+          "date": "2011-03-13",
+          "album_id": "24543"
+        },
+        {
+          "type": "release",
+          "date": "2011-03-13",
+          "album_id": "26712"
+        },
+        {
+          "type": "release",
+          "date": "2011-03-13",
+          "album_id": "24118"
+        },
+        {
+          "type": "release",
+          "date": "2011-03-13",
+          "album_id": "24420"
+        },
+        {
+          "type": "release",
+          "date": "2011-03-13",
+          "album_id": "24520"
+        },
+        {
+          "type": "release",
+          "date": "2011-02-23",
+          "album_id": "26876"
+        },
+        {
+          "type": "release",
+          "date": "2011-01-01",
+          "album_id": "DIG-SINGLE-049"
+        },
+        {
+          "type": "release",
+          "date": "2011-01-01",
+          "album_id": "DIG-SINGLE-050"
+        },
+        {
+          "type": "release",
+          "date": "2011-01-01",
+          "album_id": "DIG-SINGLE-051"
+        },
+        {
+          "type": "release",
+          "date": "2011-01-01",
+          "album_id": "DIG-SINGLE-052"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "release_count": 19,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2010-12-31",
+          "album_id": "22859"
+        },
+        {
+          "type": "release",
+          "date": "2010-12-30",
+          "album_id": "22544"
+        },
+        {
+          "type": "release",
+          "date": "2010-12-30",
+          "album_id": "22545"
+        },
+        {
+          "type": "release",
+          "date": "2010-12-30",
+          "album_id": "24166"
+        },
+        {
+          "type": "release",
+          "date": "2010-12-30",
+          "album_id": "23755"
+        },
+        {
+          "type": "release",
+          "date": "2010-12-01",
+          "album_id": "86030"
+        },
+        {
+          "type": "release",
+          "date": "2010-10-11",
+          "album_id": "21364"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "22068"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "30663"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "20548"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "40621"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "30396"
+        },
+        {
+          "type": "release",
+          "date": "2010-05-17",
+          "album_id": "19363"
+        },
+        {
+          "type": "release",
+          "date": "2010-05-12",
+          "album_id": "26552"
+        },
+        {
+          "type": "release",
+          "date": "2010-03-14",
+          "album_id": "27994"
+        },
+        {
+          "type": "release",
+          "date": "2010-03-14",
+          "album_id": "27996"
+        },
+        {
+          "type": "release",
+          "date": "2010-03-14",
+          "album_id": "18138"
+        },
+        {
+          "type": "release",
+          "date": "2010-03-14",
+          "album_id": "19696"
+        },
+        {
+          "type": "release",
+          "date": "2010-03-14",
+          "album_id": "18293"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "release_count": 10,
+      "milestone_count": 0,
+      "events": [
+        {
+          "type": "release",
+          "date": "2009-12-30",
+          "album_id": "17019"
+        },
+        {
+          "type": "release",
+          "date": "2009-12-30",
+          "album_id": "27251"
+        },
+        {
+          "type": "release",
+          "date": "2009-10-11",
+          "album_id": "15613"
+        },
+        {
+          "type": "release",
+          "date": "2009-10-11",
+          "album_id": "16787"
+        },
+        {
+          "type": "release",
+          "date": "2009-08-15",
+          "album_id": "18525"
+        },
+        {
+          "type": "release",
+          "date": "2009-08-15",
+          "album_id": "15396"
+        },
+        {
+          "type": "release",
+          "date": "2009-08-15",
+          "album_id": "14624"
+        },
+        {
+          "type": "release",
+          "date": "2009-06-07",
+          "album_id": "14544"
+        },
+        {
+          "type": "release",
+          "date": "2009-03-08",
+          "album_id": "14793"
+        },
+        {
+          "type": "release",
+          "date": "2009-03-08",
+          "album_id": "12065"
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "release_count": 0,
+      "milestone_count": 1,
+      "events": [
+        {
+          "type": "milestone",
+          "date": "2008-01-01",
+          "label": {
+            "ja": "niconico で VOCALOID カバー開始",
+            "en": "Began uploading VOCALOID covers to niconico",
+            "zh": "開始在 niconico 上傳 VOCALOID 翻唱"
+          },
+          "category": "anniversary"
+        }
+      ]
+    }
+  ],
+  "total_releases": 457,
+  "total_milestones": 13
+}

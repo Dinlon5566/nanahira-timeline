@@ -1,0 +1,22 @@
+---
+import type { Cover } from '../lib/dataTypes';
+
+interface Props {
+  cover: Cover | null;
+  alt: string;
+  size?: number;
+}
+const { cover, alt, size = 96 } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+{cover && (
+  <div class="card-cover">
+    <img
+      src={`${base}/${cover.url}`}
+      alt={alt}
+      width={size}
+      height={size}
+      loading="lazy"
+    />
+  </div>
+)}

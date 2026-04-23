@@ -1,0 +1,50 @@
+---
+import type { Year, TimelineEvent, Album, Track, MilestoneEvent, ReleaseEvent } from '../lib/dataTypes';
+import { t, type Lang } from '../lib/i18n';
+import ReleaseCard from './ReleaseCard.astro';
+import MilestoneItem from './MilestoneItem.astro';
+
+interface Props {
+  year: Year;
+  albumMap: Record<string, Album>;
+  tracksByAlbum: Record<string, Track[]>;
+  lang: Lang;
+  defaultOpen: boolean;
+}
+const { year, albumMap, tracksByAlbum, lang, defaultOpen } = Astro.props;
+---
+<section class="year" id={`year-${year.year}`} data-year={year.year} open={defaultOpen || undefined}>
+  <header class="year-header">
+    <button class="year-toggle" type="button" aria-expanded={defaultOpen ? 'true' : 'false'}>
+      <span class="year-num">{year.year}</span>
+      <span class="year-meta">
+        {year.release_count > 0 && `${year.release_count} ${t(lang, 'year.releases')}`}
+        {year.release_count > 0 && year.milestone_count > 0 && ' · '}
+        {year.milestone_count > 0 && `${year.milestone_count} ${t(lang, 'year.milestones')}`}
+      </span>
+    </button>
+  </header>
+  <ol class="events">
+    {year.events.map((e: TimelineEvent) => (
+      e.type === 'milestone' ? (
+        <li class="event event--milestone" data-type="milestone">
+          <time class="event-date">{e.date}</time>
+          <MilestoneItem milestone={e as MilestoneEvent} lang={lang} />
+        </li>
+      ) : (
+        (() => {
+          const rel = e as ReleaseEvent;
+          const album = albumMap[rel.album_id];
+          if (!album) return null;
+          const tracks = tracksByAlbum[rel.album_id] ?? [];
+          return (
+            <li class="event event--release" data-type="release" data-role={album.display_role}>
+              <time class="event-date">{album.release_date}</time>
+              <ReleaseCard album={album} tracks={tracks} lang={lang} />
+            </li>
+          );
+        })()
+      )
+    ))}
+  </ol>
+</section>

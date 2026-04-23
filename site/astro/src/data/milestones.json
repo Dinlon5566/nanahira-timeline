@@ -1,0 +1,139 @@
+[
+  {
+    "type": "milestone",
+    "date": "2008-01-01",
+    "label": {
+      "ja": "niconico で VOCALOID カバー開始",
+      "en": "Began uploading VOCALOID covers to niconico",
+      "zh": "開始在 niconico 上傳 VOCALOID 翻唱"
+    },
+    "category": "anniversary"
+  },
+  {
+    "type": "milestone",
+    "date": "2012-08-11",
+    "label": {
+      "ja": "サークル「Confetto」発足（C82）",
+      "en": "Founded circle \"Confetto\" at Comiket 82",
+      "zh": "創立社團「Confetto」（C82）"
+    },
+    "category": "anniversary",
+    "highlight": true
+  },
+  {
+    "type": "milestone",
+    "date": "2014-08-17",
+    "label": {
+      "ja": "かめりあとのコラボ「VERSUS!」シリーズ開始（C86）",
+      "en": "Started Camellia collaboration series with VERSUS! (C86)",
+      "zh": "與 Camellia 合作系列「VERSUS!」始動（C86）"
+    },
+    "category": "release"
+  },
+  {
+    "type": "milestone",
+    "date": "2017-10-01",
+    "label": {
+      "ja": "Halozy 活動終了（サークル解散）",
+      "en": "Halozy circle disbanded",
+      "zh": "Halozy 社團活動終了（sumijun 引退）"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2020-03-28",
+    "label": {
+      "ja": "Live2D モデルで配信活動開始",
+      "en": "Began streaming with Live2D model",
+      "zh": "以 Live2D 形象開始直播活動"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2023-03-20",
+    "label": {
+      "ja": "VOICEVOX「春歌ナナ」公開",
+      "en": "VOICEVOX \"Haruka Nana\" released",
+      "zh": "VOICEVOX「春歌ナナ」公開"
+    },
+    "category": "media",
+    "highlight": true,
+    "link": "https://voicevox.hiroshiba.jp/dormitory/haruka_nana/"
+  },
+  {
+    "type": "milestone",
+    "date": "2024-02-27",
+    "label": {
+      "ja": "「POKÉDANCE」公開 — メインストリーム・ヒット",
+      "en": "POKÉDANCE released — mainstream breakthrough",
+      "zh": "「POKÉDANCE」公開 — 主流出圈代表作"
+    },
+    "category": "breakthrough",
+    "highlight": true,
+    "link": "https://x.com/nanahira/status/1762353688990146955"
+  },
+  {
+    "type": "milestone",
+    "date": "2024-10-10",
+    "label": {
+      "ja": "活動15周年",
+      "en": "15th anniversary of her career",
+      "zh": "出道 15 週年"
+    },
+    "category": "anniversary"
+  },
+  {
+    "type": "milestone",
+    "date": "2024-12-29",
+    "label": {
+      "ja": "VOICEVOX「ぞん子」リリース（ZONe 公式キャラクター）",
+      "en": "VOICEVOX \"Zonko\" released (ZONe official mascot)",
+      "zh": "VOICEVOX「ぞん子」發布（ZONe 官方吉祥物）"
+    },
+    "category": "media",
+    "link": "https://voicevox.hiroshiba.jp/dormitory/zonko/"
+  },
+  {
+    "type": "milestone",
+    "date": "2025-09-08",
+    "label": {
+      "ja": "「ゆんゆん電波シンドローム」Q ちゃん CV 起用発表",
+      "en": "Cast as Q-chan in \"Yun Yun Dempa Syndrome\"",
+      "zh": "「ゆんゆん電波シンドローム」Q ちゃん CV 公布"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2025-10-02",
+    "label": {
+      "ja": "JOYSOUND 公式キャラクター「ジョイオンプー」テーマソング歌唱",
+      "en": "JOYSOUND mascot \"Joyonpu\" theme song vocal",
+      "zh": "JOYSOUND 官方吉祥物「ジョイオンプー」主題曲演唱"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-01-31",
+    "label": {
+      "ja": "第3回単独ライブ @池袋HUMAX — 約6年ぶりの有観客ライブ",
+      "en": "3rd solo live concert @ Ikebukuro HUMAX — first in-person live in ~6 years",
+      "zh": "第三次 Live @池袋 HUMAX — 約 6 年來首次線下個唱"
+    },
+    "category": "live",
+    "highlight": true
+  },
+  {
+    "type": "milestone",
+    "date": "2026-04-26",
+    "label": {
+      "ja": "M3-2026春 出展",
+      "en": "M3-2026 Spring booth",
+      "zh": "M3-2026春 出展"
+    },
+    "category": "release"
+  }
+]

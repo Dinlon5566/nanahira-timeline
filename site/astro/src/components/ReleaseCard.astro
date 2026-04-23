@@ -1,0 +1,71 @@
+---
+import type { Album, Track } from '../lib/dataTypes';
+import { t, type Lang } from '../lib/i18n';
+import Cover from './Cover.astro';
+import Tracklist from './Tracklist.astro';
+
+interface Props {
+  album: Album;
+  tracks: Track[];
+  lang: Lang;
+}
+const { album, tracks, lang } = Astro.props;
+
+// Prefer album cover; fall back to single-track cover
+const singleTrack = tracks.length === 1 ? tracks[0] : null;
+const cover = album.cover ?? singleTrack?.cover ?? null;
+const coverClass = cover ? 'card--with-cover' : 'card--no-cover';
+
+const herCount = album.her_tracks_count;
+const allHers = album.her_ratio === 'all';
+const noneHers = album.her_ratio === 'none';
+const hasOther = !allHers && tracks.length > herCount;
+
+const roleLabel =
+  album.display_role === 'lead' ? t(lang, 'role.lead') :
+  album.display_role === 'tiein' ? t(lang, 'role.tiein') :
+  t(lang, 'role.guest');
+const roleClass = `role-badge--${album.display_role}`;
+
+const vgmdb = album.sources.vgmdb;
+const links = album.external_links || {};
+---
+<article class={`card ${coverClass}`} data-role={album.display_role}>
+  <Cover cover={cover} alt={album.title_jp} />
+  <div class="card-info">
+    <h3 class="card-title">{album.title_jp}</h3>
+    <div class="card-meta">
+      {album.catalog && album.catalog !== 'N/A' && <span class="catalog">{album.catalog}</span>}
+      {album.publisher && <span class="publisher">{album.publisher}</span>}
+      {album.event && <span class="event-tag">{album.event}</span>}
+      <span class="track-count">
+        {allHers
+          ? `${album.tracks_count} 曲`
+          : noneHers
+          ? `${album.tracks_count} 曲 · 参加なし`
+          : `${album.tracks_count} 曲中 ${herCount} 曲参加`}
+      </span>
+      <span class={`role-badge ${roleClass}`}>{roleLabel}</span>
+    </div>
+    {tracks.length > 0 && !noneHers && (
+      <div class="card-links">
+        <button class="expand" type="button" aria-expanded="false">
+          {t(lang, 'card.tracklist.show')} ▾
+        </button>
+        {links.youtube && <a class="link-chip link-chip--youtube" href={links.youtube} target="_blank" rel="noopener">YouTube</a>}
+        {links.spotify && <a class="link-chip link-chip--spotify" href={links.spotify} target="_blank" rel="noopener">Spotify</a>}
+        {links.apple_music && <a class="link-chip link-chip--apple" href={links.apple_music} target="_blank" rel="noopener">Apple Music</a>}
+        {links.niconico && <a class="link-chip link-chip--nico" href={links.niconico} target="_blank" rel="noopener">niconico</a>}
+        {links.soundcloud && <a class="link-chip link-chip--soundcloud" href={links.soundcloud} target="_blank" rel="noopener">SoundCloud</a>}
+        {links.bandcamp && <a class="link-chip link-chip--bandcamp" href={links.bandcamp} target="_blank" rel="noopener">Bandcamp</a>}
+        {links.official && <a class="link-chip" href={links.official} target="_blank" rel="noopener">Official</a>}
+        {vgmdb && <a class="link-chip link-chip--vgmdb" href={vgmdb} target="_blank" rel="noopener">VGMdb</a>}
+      </div>
+    )}
+    {tracks.length > 0 && !noneHers && (
+      <div class="tracklist-wrap" hidden>
+        <Tracklist tracks={tracks} lang={lang} hasOther={hasOther} allHers={allHers} />
+      </div>
+    )}
+  </div>
+</article>
