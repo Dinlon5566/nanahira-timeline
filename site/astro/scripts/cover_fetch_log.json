@@ -1,0 +1,802 @@
+[
+  {
+    "aid": "DIG-HUNT-032",
+    "result": "fail",
+    "url": "https://musicbrainz.org/release/fa8e6cc3-1147-4af7-8924-7eea"
+  },
+  {
+    "aid": "DIG-HUNT-082",
+    "result": "fail",
+    "url": "https://www.iosysos.com/SHOP/IO-0278.html"
+  },
+  {
+    "aid": "DIG-HUNT-103",
+    "result": "fail",
+    "url": "https://iosys.booth.pm/items/341356"
+  },
+  {
+    "aid": "DIG-HUNT-121",
+    "result": "og_image",
+    "url": "https://booth.pm/ja/items/644329"
+  },
+  {
+    "aid": "DIG-HUNT-122",
+    "result": "og_image",
+    "url": "https://booth.pm/ja/items/683788"
+  },
+  {
+    "aid": "DIG-HUNT-123",
+    "result": "generic",
+    "url": "http://www.iosysos.com/cd/tohofsd2/"
+  },
+  {
+    "aid": "DIG-HUNT-124",
+    "result": "og_image",
+    "url": "https://booth.pm/ja/items/683784"
+  },
+  {
+    "aid": "DIG-HUNT-127",
+    "result": "og_image",
+    "url": "https://www.diverse.direct/practice/mofu-0001/"
+  },
+  {
+    "aid": "DIG-HUNT-128",
+    "result": "og_image",
+    "url": "https://girlswavegear.bandcamp.com/album/girls-wave-gear-02"
+  },
+  {
+    "aid": "DIG-HUNT-130",
+    "result": "og_image",
+    "url": "https://www.diverse.direct/croak-not-rue/crnr-005/"
+  },
+  {
+    "aid": "DIG-HUNT-135",
+    "result": "og_image",
+    "url": "https://nekohacker.bandcamp.com/album/isekai-travel"
+  },
+  {
+    "aid": "DIG-HUNT-139",
+    "result": "og_image",
+    "url": "https://www.diverse.direct/alstroemeria-records/arcd0089/"
+  },
+  {
+    "aid": "DIG-HUNT-023",
+    "result": "fail",
+    "url": "https://dic.wdic.org/w/CUL/%E3%81%A6%E3%82%8B%E3%81%A6%E3%82"
+  },
+  {
+    "aid": "DIG-HUNT-025",
+    "result": "og_image",
+    "url": "https://www.last.fm/music/Celo+Project/Vibrato"
+  },
+  {
+    "aid": "DIG-HUNT-027",
+    "result": "generic",
+    "url": "https://dreamusic.co.jp/artist/dance/5707.html"
+  },
+  {
+    "aid": "DIG-HUNT-028",
+    "result": "generic",
+    "url": "https://www.last.fm/music/Celo+Project/Trill"
+  },
+  {
+    "aid": "DIG-HUNT-029",
+    "result": "generic",
+    "url": "https://dreamusic.co.jp/artist/dance/7340.html"
+  },
+  {
+    "aid": "DIG-HUNT-031",
+    "result": "og_image",
+    "url": "https://www.last.fm/music/Celo+Project/Rubato"
+  },
+  {
+    "aid": "DIG-SINGLE-049",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-049"
+  },
+  {
+    "aid": "DIG-SINGLE-050",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-050"
+  },
+  {
+    "aid": "DIG-SINGLE-051",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-051"
+  },
+  {
+    "aid": "DIG-SINGLE-052",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-052"
+  },
+  {
+    "aid": "DIG-HUNT-038",
+    "result": "og_image",
+    "url": "https://www.last.fm/music/%E6%97%A5%E3%81%AE%E5%BD%93%E3%81%"
+  },
+  {
+    "aid": "DIG-SINGLE-047",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-047"
+  },
+  {
+    "aid": "DIG-SINGLE-048",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-048"
+  },
+  {
+    "aid": "DIG-HUNT-043",
+    "result": "og_image",
+    "url": "https://www.hmv.co.jp/artist_%E9%95%B7%E5%B3%B6%E2%98%86%E8%"
+  },
+  {
+    "aid": "43477",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/43477"
+  },
+  {
+    "aid": "DIG-HUNT-045",
+    "result": "og_image",
+    "url": "https://music.apple.com/jp/artist/zero-shaft/1354982201"
+  },
+  {
+    "aid": "DIG-HUNT-046",
+    "result": "fail",
+    "url": "https://yoshidashogo.net/aintops%E3%80%8Clogin%E3%80%8D/"
+  },
+  {
+    "aid": "41134",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/41134"
+  },
+  {
+    "aid": "DIG-SINGLE-042",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-042"
+  },
+  {
+    "aid": "DIG-SINGLE-043",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-043"
+  },
+  {
+    "aid": "DIG-SINGLE-044",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-044"
+  },
+  {
+    "aid": "DIG-SINGLE-045",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-045"
+  },
+  {
+    "aid": "DIG-SINGLE-046",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-046"
+  },
+  {
+    "aid": "DIG-HUNT-064",
+    "result": "fail",
+    "url": "https://rateyourmusic.com/release/album/innocent-key/%E3%82%"
+  },
+  {
+    "aid": "DIG-HUNT-066",
+    "result": "og_image",
+    "url": "https://colorpop3.2-dimension.net/"
+  },
+  {
+    "aid": "DIG-SINGLE-039",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-039"
+  },
+  {
+    "aid": "DIG-SINGLE-040",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-040"
+  },
+  {
+    "aid": "DIG-HUNT-068",
+    "result": "generic",
+    "url": "https://arksquare.net/jp/detail.php?cdno=FLLM-029"
+  },
+  {
+    "aid": "DIG-HUNT-069",
+    "result": "og_image",
+    "url": "https://ototoy.jp/_/default/p/44201"
+  },
+  {
+    "aid": "DIG-HUNT-074",
+    "result": "fail",
+    "url": "https://www.dojin-music.info/cd/5629"
+  },
+  {
+    "aid": "45859",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/45859"
+  },
+  {
+    "aid": "DIG-HUNT-080",
+    "result": "fail",
+    "url": "https://www.suruga-ya.jp/product/detail/120079422"
+  },
+  {
+    "aid": "DIG-SINGLE-037",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-037"
+  },
+  {
+    "aid": "DIG-SINGLE-038",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-038"
+  },
+  {
+    "aid": "DIG-HUNT-086",
+    "result": "og_image",
+    "url": "https://dreaminpop.tumblr.com/"
+  },
+  {
+    "aid": "DIG-HUNT-092",
+    "result": "fail",
+    "url": "https://open.spotify.com/album/4f8bOTYJSK8Yk4Na0JiQ0D"
+  },
+  {
+    "aid": "DIG-TIE-005",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-005"
+  },
+  {
+    "aid": "DIG-TIE-006",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-006"
+  },
+  {
+    "aid": "DIG-HUNT-094",
+    "result": "generic",
+    "url": "https://www.amazon.com/PURE-LILY-WHITE-SONGSANOTHER-TIME/dp/"
+  },
+  {
+    "aid": "DIG-SINGLE-033",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-033"
+  },
+  {
+    "aid": "DIG-SINGLE-034",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-034"
+  },
+  {
+    "aid": "DIG-SINGLE-035",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-035"
+  },
+  {
+    "aid": "DIG-SINGLE-036",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-036"
+  },
+  {
+    "aid": "DIG-HUNT-100",
+    "result": "og_image",
+    "url": "https://www.suruga-ya.com/en/product/186148925"
+  },
+  {
+    "aid": "DIG-HUNT-106",
+    "result": "og_image",
+    "url": "https://www.suruga-ya.com/en/product/186139195"
+  },
+  {
+    "aid": "DIG-HUNT-010",
+    "result": "og_image",
+    "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ186339.htm"
+  },
+  {
+    "aid": "DIG-SINGLE-030",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-030"
+  },
+  {
+    "aid": "DIG-SINGLE-031",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-031"
+  },
+  {
+    "aid": "DIG-SINGLE-032",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-032"
+  },
+  {
+    "aid": "DIG-HUNT-113",
+    "result": "fail",
+    "url": "http://croire.site/sp/girls_party/"
+  },
+  {
+    "aid": "142696",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/142696"
+  },
+  {
+    "aid": "74966",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/74966"
+  },
+  {
+    "aid": "DIG-HUNT-125",
+    "result": "og_image",
+    "url": "https://www.akibaoo.com/c/82/2500020440551/"
+  },
+  {
+    "aid": "DIG-012",
+    "result": "og_image",
+    "url": "https://soundcloud.com/nanahira/38kzud8my68i"
+  },
+  {
+    "aid": "DIG-SINGLE-026",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-026"
+  },
+  {
+    "aid": "DIG-SINGLE-027",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-027"
+  },
+  {
+    "aid": "DIG-SINGLE-028",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-028"
+  },
+  {
+    "aid": "DIG-SINGLE-029",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-029"
+  },
+  {
+    "aid": "DIG-TIE-007",
+    "result": "og_image",
+    "url": "https://music.apple.com/jp/album/1406305959"
+  },
+  {
+    "aid": "DIG-SINGLE-024",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-024"
+  },
+  {
+    "aid": "DIG-SINGLE-025",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-025"
+  },
+  {
+    "aid": "93559",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/93559"
+  },
+  {
+    "aid": "DIG-SINGLE-017",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-017"
+  },
+  {
+    "aid": "DIG-SINGLE-018",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-018"
+  },
+  {
+    "aid": "DIG-SINGLE-019",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-019"
+  },
+  {
+    "aid": "DIG-SINGLE-020",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-020"
+  },
+  {
+    "aid": "DIG-SINGLE-021",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-021"
+  },
+  {
+    "aid": "DIG-SINGLE-022",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-022"
+  },
+  {
+    "aid": "DIG-SINGLE-023",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-023"
+  },
+  {
+    "aid": "DIG-SINGLE-054",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-054"
+  },
+  {
+    "aid": "DIG-TIE-004",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-004"
+  },
+  {
+    "aid": "DIG-HUNT-132",
+    "result": "og_image",
+    "url": "https://www.tanocstore.net/shopdetail/000000002488/"
+  },
+  {
+    "aid": "DIG-HUNT-133",
+    "result": "fail",
+    "url": "https://open.spotify.com/album/0NSswGfbvQCOL0WPCSOW96"
+  },
+  {
+    "aid": "DIG-NEW-004",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-NEW-004"
+  },
+  {
+    "aid": "126018",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/126018"
+  },
+  {
+    "aid": "DIG-NEW-002",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-NEW-002"
+  },
+  {
+    "aid": "DIG-SINGLE-016",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-016"
+  },
+  {
+    "aid": "DIG-NEW-003",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-NEW-003"
+  },
+  {
+    "aid": "DIG-HUNT-136",
+    "result": "og_image",
+    "url": "https://muchette.net/discography/ronddelumiere/"
+  },
+  {
+    "aid": "120168",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/120168"
+  },
+  {
+    "aid": "DIG-SINGLE-010",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-010"
+  },
+  {
+    "aid": "DIG-SINGLE-011",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-011"
+  },
+  {
+    "aid": "DIG-SINGLE-012",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-012"
+  },
+  {
+    "aid": "DIG-SINGLE-013",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-013"
+  },
+  {
+    "aid": "DIG-SINGLE-014",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-014"
+  },
+  {
+    "aid": "DIG-SINGLE-015",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-015"
+  },
+  {
+    "aid": "DIG-TIE-003",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-003"
+  },
+  {
+    "aid": "DIG-TIE-001",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-001"
+  },
+  {
+    "aid": "138272",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/138272"
+  },
+  {
+    "aid": "138278",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/138278"
+  },
+  {
+    "aid": "138279",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/138279"
+  },
+  {
+    "aid": "131815",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/131815"
+  },
+  {
+    "aid": "DIG-SINGLE-006",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-006"
+  },
+  {
+    "aid": "DIG-SINGLE-007",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-007"
+  },
+  {
+    "aid": "DIG-SINGLE-008",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-008"
+  },
+  {
+    "aid": "DIG-SINGLE-009",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-009"
+  },
+  {
+    "aid": "DIG-SINGLE-053",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-053"
+  },
+  {
+    "aid": "DIG-HUNT-137",
+    "result": "og_image",
+    "url": "https://ototoy.jp/_/default/p/1644490"
+  },
+  {
+    "aid": "DIG-HUNT-138",
+    "result": "generic",
+    "url": "https://nanahira.jp/make_a_toast/"
+  },
+  {
+    "aid": "DIG-SINGLE-004",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-004"
+  },
+  {
+    "aid": "DIG-007",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-007"
+  },
+  {
+    "aid": "DIG-008",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-008"
+  },
+  {
+    "aid": "DIG-009",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-009"
+  },
+  {
+    "aid": "DIG-TIE-002",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-TIE-002"
+  },
+  {
+    "aid": "DIG-SINGLE-005",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-005"
+  },
+  {
+    "aid": "144269",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/144269"
+  },
+  {
+    "aid": "146796",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/146796"
+  },
+  {
+    "aid": "DIG-006",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-006"
+  },
+  {
+    "aid": "DIG-010",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-010"
+  },
+  {
+    "aid": "DIG-011",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-011"
+  },
+  {
+    "aid": "DIG-SINGLE-001",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-001"
+  },
+  {
+    "aid": "DIG-SINGLE-002",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-002"
+  },
+  {
+    "aid": "DIG-SINGLE-003",
+    "result": "generic",
+    "url": "https://nanahira.jp/works.html#DIG-SINGLE-003"
+  },
+  {
+    "aid": "DIG-HUNT-004",
+    "result": "og_image",
+    "url": "https://youtu.be/Dl_z4yZUUAk"
+  },
+  {
+    "aid": "150934",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/150934"
+  },
+  {
+    "aid": "DIG-001",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-001"
+  },
+  {
+    "aid": "DIG-002",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-002"
+  },
+  {
+    "aid": "DIG-004",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-004"
+  },
+  {
+    "aid": "DIG-HUNT-005",
+    "result": "fail",
+    "url": "https://x.com/SoftBank/status/1975856229357691385"
+  },
+  {
+    "aid": "DIG-003",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-003"
+  },
+  {
+    "aid": "DIG-005",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-005"
+  },
+  {
+    "aid": "157519",
+    "result": "fail",
+    "url": "https://vgmdb.net/album/157519"
+  },
+  {
+    "aid": "DIG-YY-001",
+    "result": "og_image",
+    "url": "https://youtu.be/b712-HFa6yA"
+  },
+  {
+    "aid": "DIG-NEW-001",
+    "result": "generic",
+    "url": "https://nanahira.jp/#DIG-NEW-001"
+  },
+  {
+    "aid": "DIG-HUNT-026",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-042",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-047",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-048",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-049",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-051",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-054",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-055",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-057",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-058",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-059",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-060",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-061",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-065",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-067",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-070",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-075",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-081",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-084",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-087",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-090",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-098",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-102",
+    "result": "no_url",
+    "url": ""
+  },
+  {
+    "aid": "DIG-HUNT-126",
+    "result": "no_url",
+    "url": ""
+  }
+]

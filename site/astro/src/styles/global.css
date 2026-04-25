@@ -538,6 +538,10 @@ a:hover { text-decoration: underline; }
   max-width: 640px;
   margin: 0 auto 8px auto !important;
 }
+.footer-links { margin-top: 8px !important; }
+.footer-links a { color: #888; text-decoration: none; }
+.footer-links a:hover { color: #555; text-decoration: underline; }
+.footer-sep { color: #ccc; margin: 0 6px; }
 
 /* ===== Responsive ===== */
 @media (max-width: 640px) {

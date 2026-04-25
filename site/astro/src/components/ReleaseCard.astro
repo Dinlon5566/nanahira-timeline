@@ -35,15 +35,17 @@ const links = album.external_links || {};
   <div class="card-info">
     <h3 class="card-title">{album.title_jp}</h3>
     <div class="card-meta">
-      {album.catalog && album.catalog !== 'N/A' && <span class="catalog">{album.catalog}</span>}
+      {album.catalog && album.catalog !== 'N/A' && album.catalog !== 'UNKNOWN' && <span class="catalog">{album.catalog}</span>}
       {album.publisher && <span class="publisher">{album.publisher}</span>}
       {album.event && <span class="event-tag">{album.event}</span>}
       <span class="track-count">
-        {allHers
-          ? `${album.tracks_count} 曲`
+        {(allHers
+          ? t(lang, 'card.tracks.all')
           : noneHers
-          ? `${album.tracks_count} 曲 · 参加なし`
-          : `${album.tracks_count} 曲中 ${herCount} 曲参加`}
+          ? t(lang, 'card.tracks.none')
+          : t(lang, 'card.tracks.some'))
+            .replace('{n}', String(album.tracks_count))
+            .replace('{her}', String(herCount))}
       </span>
       <span class={`role-badge ${roleClass}`}>{roleLabel}</span>
     </div>

@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/',
   output: 'static',
   trailingSlash: 'always',
+  devToolbar: { enabled: false },
   i18n: {
     defaultLocale: 'ja',
     locales: ['ja', 'en', 'zh'],

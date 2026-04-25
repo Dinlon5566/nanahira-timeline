@@ -90,7 +90,7 @@
     },
     {
       "year": 2025,
-      "release_count": 26,
+      "release_count": 27,
       "milestone_count": 2,
       "events": [
         {
@@ -167,6 +167,11 @@
           "type": "release",
           "date": "2025-08-17",
           "album_id": "152530"
+        },
+        {
+          "type": "release",
+          "date": "2025-08-17",
+          "album_id": "DIG-HUNT-139"
         },
         {
           "type": "release",
@@ -407,7 +412,7 @@
     },
     {
       "year": 2023,
-      "release_count": 21,
+      "release_count": 23,
       "milestone_count": 1,
       "events": [
         {
@@ -442,8 +447,18 @@
         },
         {
           "type": "release",
+          "date": "2023-10-01",
+          "album_id": "DIG-HUNT-138"
+        },
+        {
+          "type": "release",
           "date": "2023-08-25",
           "album_id": "130965"
+        },
+        {
+          "type": "release",
+          "date": "2023-05-01",
+          "album_id": "DIG-HUNT-137"
         },
         {
           "type": "release",
@@ -663,7 +678,7 @@
     },
     {
       "year": 2021,
-      "release_count": 23,
+      "release_count": 24,
       "milestone_count": 0,
       "events": [
         {
@@ -705,6 +720,11 @@
           "type": "release",
           "date": "2021-10-24",
           "album_id": "115216"
+        },
+        {
+          "type": "release",
+          "date": "2021-09-17",
+          "album_id": "DIG-HUNT-136"
         },
         {
           "type": "release",
@@ -785,13 +805,18 @@
     },
     {
       "year": 2020,
-      "release_count": 32,
+      "release_count": 35,
       "milestone_count": 1,
       "events": [
         {
           "type": "release",
           "date": "2020-11-01",
           "album_id": "DIG-NEW-002"
+        },
+        {
+          "type": "release",
+          "date": "2020-11-01",
+          "album_id": "DIG-HUNT-135"
         },
         {
           "type": "release",
@@ -855,6 +880,11 @@
         },
         {
           "type": "release",
+          "date": "2020-06-13",
+          "album_id": "DIG-HUNT-133"
+        },
+        {
+          "type": "release",
           "date": "2020-05-05",
           "album_id": "98370"
         },
@@ -915,6 +945,11 @@
         },
         {
           "type": "release",
+          "date": "2020-03-01",
+          "album_id": "DIG-HUNT-132"
+        },
+        {
+          "type": "release",
           "date": "2020-01-01",
           "album_id": "DIG-SINGLE-017"
         },
@@ -962,7 +997,7 @@
     },
     {
       "year": 2019,
-      "release_count": 20,
+      "release_count": 23,
       "milestone_count": 0,
       "events": [
         {
@@ -979,6 +1014,11 @@
           "type": "release",
           "date": "2019-12-31",
           "album_id": "94852"
+        },
+        {
+          "type": "release",
+          "date": "2019-12-09",
+          "album_id": "DIG-HUNT-131"
         },
         {
           "type": "release",
@@ -999,6 +1039,11 @@
           "type": "release",
           "date": "2019-10-27",
           "album_id": "99938"
+        },
+        {
+          "type": "release",
+          "date": "2019-10-27",
+          "album_id": "DIG-HUNT-130"
         },
         {
           "type": "release",
@@ -1054,6 +1099,11 @@
           "type": "release",
           "date": "2019-04-28",
           "album_id": "98714"
+        },
+        {
+          "type": "release",
+          "date": "2019-04-28",
+          "album_id": "DIG-HUNT-128"
         },
         {
           "type": "release",
@@ -1261,9 +1311,14 @@
     },
     {
       "year": 2017,
-      "release_count": 33,
+      "release_count": 49,
       "milestone_count": 1,
       "events": [
+        {
+          "type": "release",
+          "date": "2017-12-31",
+          "album_id": "DIG-HUNT-127"
+        },
         {
           "type": "release",
           "date": "2017-12-29",
@@ -1281,8 +1336,23 @@
         },
         {
           "type": "release",
+          "date": "2017-12-29",
+          "album_id": "DIG-HUNT-125"
+        },
+        {
+          "type": "release",
+          "date": "2017-12-29",
+          "album_id": "DIG-HUNT-126"
+        },
+        {
+          "type": "release",
           "date": "2017-11-08",
           "album_id": "72252"
+        },
+        {
+          "type": "release",
+          "date": "2017-10-29",
+          "album_id": "DIG-HUNT-124"
         },
         {
           "type": "release",
@@ -1293,6 +1363,11 @@
           "type": "release",
           "date": "2017-10-15",
           "album_id": "75098"
+        },
+        {
+          "type": "release",
+          "date": "2017-10-15",
+          "album_id": "DIG-HUNT-123"
         },
         {
           "type": "milestone",
@@ -1371,6 +1446,26 @@
         },
         {
           "type": "release",
+          "date": "2017-08-11",
+          "album_id": "DIG-HUNT-119"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "DIG-HUNT-121"
+        },
+        {
+          "type": "release",
+          "date": "2017-08-11",
+          "album_id": "DIG-HUNT-122"
+        },
+        {
+          "type": "release",
+          "date": "2017-07-21",
+          "album_id": "142696"
+        },
+        {
+          "type": "release",
           "date": "2017-05-07",
           "album_id": "67802"
         },
@@ -1388,6 +1483,16 @@
           "type": "release",
           "date": "2017-05-07",
           "album_id": "95137"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "DIG-HUNT-116"
+        },
+        {
+          "type": "release",
+          "date": "2017-05-07",
+          "album_id": "DIG-HUNT-117"
         },
         {
           "type": "release",
@@ -1411,6 +1516,21 @@
         },
         {
           "type": "release",
+          "date": "2017-04-30",
+          "album_id": "DIG-HUNT-113"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "DIG-HUNT-114"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-30",
+          "album_id": "DIG-HUNT-115"
+        },
+        {
+          "type": "release",
           "date": "2017-04-26",
           "album_id": "63844"
         },
@@ -1418,6 +1538,16 @@
           "type": "release",
           "date": "2017-04-12",
           "album_id": "69070"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-02",
+          "album_id": "DIG-HUNT-111"
+        },
+        {
+          "type": "release",
+          "date": "2017-04-02",
+          "album_id": "DIG-HUNT-112"
         },
         {
           "type": "release",
@@ -1443,7 +1573,7 @@
     },
     {
       "year": 2016,
-      "release_count": 45,
+      "release_count": 58,
       "milestone_count": 0,
       "events": [
         {
@@ -1473,6 +1603,11 @@
         },
         {
           "type": "release",
+          "date": "2016-12-31",
+          "album_id": "DIG-HUNT-110"
+        },
+        {
+          "type": "release",
           "date": "2016-12-29",
           "album_id": "71002"
         },
@@ -1485,6 +1620,11 @@
           "type": "release",
           "date": "2016-12-29",
           "album_id": "65339"
+        },
+        {
+          "type": "release",
+          "date": "2016-12-29",
+          "album_id": "DIG-HUNT-109"
         },
         {
           "type": "release",
@@ -1528,6 +1668,31 @@
         },
         {
           "type": "release",
+          "date": "2016-10-30",
+          "album_id": "DIG-HUNT-105"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "DIG-HUNT-106"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-30",
+          "album_id": "DIG-HUNT-108"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-16",
+          "album_id": "DIG-HUNT-104"
+        },
+        {
+          "type": "release",
+          "date": "2016-10-09",
+          "album_id": "DIG-HUNT-103"
+        },
+        {
+          "type": "release",
           "date": "2016-09-07",
           "album_id": "135422"
         },
@@ -1560,6 +1725,11 @@
           "type": "release",
           "date": "2016-08-14",
           "album_id": "65966"
+        },
+        {
+          "type": "release",
+          "date": "2016-08-14",
+          "album_id": "DIG-HUNT-102"
         },
         {
           "type": "release",
@@ -1648,6 +1818,31 @@
         },
         {
           "type": "release",
+          "date": "2016-04-24",
+          "album_id": "DIG-HUNT-098"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "DIG-HUNT-099"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "DIG-HUNT-100"
+        },
+        {
+          "type": "release",
+          "date": "2016-04-24",
+          "album_id": "DIG-HUNT-101"
+        },
+        {
+          "type": "release",
+          "date": "2016-03-13",
+          "album_id": "DIG-HUNT-097"
+        },
+        {
+          "type": "release",
           "date": "2016-01-31",
           "album_id": "104355"
         },
@@ -1675,7 +1870,7 @@
     },
     {
       "year": 2015,
-      "release_count": 38,
+      "release_count": 50,
       "milestone_count": 0,
       "events": [
         {
@@ -1697,6 +1892,16 @@
           "type": "release",
           "date": "2015-12-31",
           "album_id": "126866"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "DIG-HUNT-095"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-31",
+          "album_id": "DIG-HUNT-096"
         },
         {
           "type": "release",
@@ -1722,6 +1927,11 @@
           "type": "release",
           "date": "2015-12-23",
           "album_id": "DIG-TIE-006"
+        },
+        {
+          "type": "release",
+          "date": "2015-12-23",
+          "album_id": "DIG-HUNT-094"
         },
         {
           "type": "release",
@@ -1795,6 +2005,26 @@
         },
         {
           "type": "release",
+          "date": "2015-08-16",
+          "album_id": "DIG-HUNT-090"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "DIG-HUNT-091"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "DIG-HUNT-092"
+        },
+        {
+          "type": "release",
+          "date": "2015-08-16",
+          "album_id": "DIG-HUNT-093"
+        },
+        {
+          "type": "release",
           "date": "2015-08-14",
           "album_id": "54542"
         },
@@ -1850,6 +2080,31 @@
         },
         {
           "type": "release",
+          "date": "2015-04-26",
+          "album_id": "DIG-HUNT-087"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-26",
+          "album_id": "DIG-HUNT-088"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-26",
+          "album_id": "DIG-HUNT-089"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-25",
+          "album_id": "DIG-HUNT-085"
+        },
+        {
+          "type": "release",
+          "date": "2015-04-25",
+          "album_id": "DIG-HUNT-086"
+        },
+        {
+          "type": "release",
           "date": "2015-04-20",
           "album_id": "55027"
         },
@@ -1872,7 +2127,7 @@
     },
     {
       "year": 2014,
-      "release_count": 31,
+      "release_count": 45,
       "milestone_count": 1,
       "events": [
         {
@@ -1897,6 +2152,11 @@
         },
         {
           "type": "release",
+          "date": "2014-12-30",
+          "album_id": "DIG-HUNT-084"
+        },
+        {
+          "type": "release",
           "date": "2014-12-29",
           "album_id": "51644"
         },
@@ -1917,6 +2177,11 @@
         },
         {
           "type": "release",
+          "date": "2014-11-24",
+          "album_id": "DIG-HUNT-082"
+        },
+        {
+          "type": "release",
           "date": "2014-10-26",
           "album_id": "127362"
         },
@@ -1924,6 +2189,11 @@
           "type": "release",
           "date": "2014-10-26",
           "album_id": "128304"
+        },
+        {
+          "type": "release",
+          "date": "2014-10-26",
+          "album_id": "DIG-HUNT-081"
         },
         {
           "type": "release",
@@ -1939,6 +2209,11 @@
           "type": "release",
           "date": "2014-08-17",
           "album_id": "47433"
+        },
+        {
+          "type": "release",
+          "date": "2014-08-17",
+          "album_id": "DIG-HUNT-080"
         },
         {
           "type": "milestone",
@@ -1977,6 +2252,11 @@
         },
         {
           "type": "release",
+          "date": "2014-08-15",
+          "album_id": "DIG-HUNT-078"
+        },
+        {
+          "type": "release",
           "date": "2014-05-14",
           "album_id": "45859"
         },
@@ -2002,6 +2282,11 @@
         },
         {
           "type": "release",
+          "date": "2014-05-11",
+          "album_id": "DIG-HUNT-076"
+        },
+        {
+          "type": "release",
           "date": "2014-04-27",
           "album_id": "48960"
         },
@@ -2017,8 +2302,48 @@
         },
         {
           "type": "release",
+          "date": "2014-04-27",
+          "album_id": "DIG-HUNT-073"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-27",
+          "album_id": "DIG-HUNT-074"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-27",
+          "album_id": "DIG-HUNT-075"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-26",
+          "album_id": "DIG-HUNT-072"
+        },
+        {
+          "type": "release",
+          "date": "2014-04-24",
+          "album_id": "DIG-HUNT-071"
+        },
+        {
+          "type": "release",
           "date": "2014-04-23",
           "album_id": "DIG-HUNT-003"
+        },
+        {
+          "type": "release",
+          "date": "2014-03-09",
+          "album_id": "DIG-HUNT-070"
+        },
+        {
+          "type": "release",
+          "date": "2014-02-26",
+          "album_id": "DIG-HUNT-069"
+        },
+        {
+          "type": "release",
+          "date": "2014-02-12",
+          "album_id": "DIG-HUNT-068"
         },
         {
           "type": "release",
@@ -2044,7 +2369,7 @@
     },
     {
       "year": 2013,
-      "release_count": 33,
+      "release_count": 44,
       "milestone_count": 0,
       "events": [
         {
@@ -2064,13 +2389,38 @@
         },
         {
           "type": "release",
+          "date": "2013-12-31",
+          "album_id": "DIG-HUNT-065"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-31",
+          "album_id": "DIG-HUNT-066"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-31",
+          "album_id": "DIG-HUNT-067"
+        },
+        {
+          "type": "release",
           "date": "2013-12-30",
           "album_id": "43487"
         },
         {
           "type": "release",
+          "date": "2013-12-30",
+          "album_id": "DIG-HUNT-064"
+        },
+        {
+          "type": "release",
           "date": "2013-12-25",
           "album_id": "42705"
+        },
+        {
+          "type": "release",
+          "date": "2013-12-18",
+          "album_id": "DIG-HUNT-063"
         },
         {
           "type": "release",
@@ -2134,13 +2484,33 @@
         },
         {
           "type": "release",
+          "date": "2013-08-12",
+          "album_id": "DIG-HUNT-061"
+        },
+        {
+          "type": "release",
+          "date": "2013-08-12",
+          "album_id": "DIG-HUNT-062"
+        },
+        {
+          "type": "release",
           "date": "2013-08-11",
           "album_id": "74736"
         },
         {
           "type": "release",
+          "date": "2013-07-24",
+          "album_id": "DIG-HUNT-060"
+        },
+        {
+          "type": "release",
           "date": "2013-07-14",
           "album_id": "48877"
+        },
+        {
+          "type": "release",
+          "date": "2013-06-15",
+          "album_id": "DIG-HUNT-059"
         },
         {
           "type": "release",
@@ -2184,6 +2554,16 @@
         },
         {
           "type": "release",
+          "date": "2013-04-29",
+          "album_id": "DIG-HUNT-057"
+        },
+        {
+          "type": "release",
+          "date": "2013-04-29",
+          "album_id": "DIG-HUNT-058"
+        },
+        {
+          "type": "release",
           "date": "2013-04-27",
           "album_id": "127719"
         },
@@ -2216,7 +2596,7 @@
     },
     {
       "year": 2012,
-      "release_count": 24,
+      "release_count": 39,
       "milestone_count": 1,
       "events": [
         {
@@ -2246,6 +2626,11 @@
         },
         {
           "type": "release",
+          "date": "2012-12-30",
+          "album_id": "41134"
+        },
+        {
+          "type": "release",
           "date": "2012-12-29",
           "album_id": "36662"
         },
@@ -2256,8 +2641,28 @@
         },
         {
           "type": "release",
+          "date": "2012-10-28",
+          "album_id": "DIG-HUNT-053"
+        },
+        {
+          "type": "release",
+          "date": "2012-10-28",
+          "album_id": "DIG-HUNT-054"
+        },
+        {
+          "type": "release",
+          "date": "2012-10-28",
+          "album_id": "DIG-HUNT-055"
+        },
+        {
+          "type": "release",
           "date": "2012-10-07",
           "album_id": "39159"
+        },
+        {
+          "type": "release",
+          "date": "2012-10-07",
+          "album_id": "DIG-HUNT-052"
         },
         {
           "type": "release",
@@ -2288,6 +2693,26 @@
           "type": "release",
           "date": "2012-08-11",
           "album_id": "113584"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "DIG-HUNT-048"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "DIG-HUNT-049"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "DIG-HUNT-050"
+        },
+        {
+          "type": "release",
+          "date": "2012-08-11",
+          "album_id": "DIG-HUNT-051"
         },
         {
           "type": "milestone",
@@ -2342,6 +2767,36 @@
         },
         {
           "type": "release",
+          "date": "2012-04-30",
+          "album_id": "43477"
+        },
+        {
+          "type": "release",
+          "date": "2012-04-30",
+          "album_id": "DIG-HUNT-045"
+        },
+        {
+          "type": "release",
+          "date": "2012-04-30",
+          "album_id": "DIG-HUNT-046"
+        },
+        {
+          "type": "release",
+          "date": "2012-04-30",
+          "album_id": "DIG-HUNT-047"
+        },
+        {
+          "type": "release",
+          "date": "2012-04-25",
+          "album_id": "DIG-HUNT-043"
+        },
+        {
+          "type": "release",
+          "date": "2012-03-30",
+          "album_id": "DIG-HUNT-042"
+        },
+        {
+          "type": "release",
           "date": "2012-01-01",
           "album_id": "DIG-SINGLE-047"
         },
@@ -2354,13 +2809,23 @@
     },
     {
       "year": 2011,
-      "release_count": 26,
+      "release_count": 33,
       "milestone_count": 0,
       "events": [
         {
           "type": "release",
           "date": "2011-12-31",
           "album_id": "31028"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-31",
+          "album_id": "DIG-HUNT-040"
+        },
+        {
+          "type": "release",
+          "date": "2011-12-31",
+          "album_id": "DIG-HUNT-041"
         },
         {
           "type": "release",
@@ -2386,6 +2851,16 @@
           "type": "release",
           "date": "2011-12-30",
           "album_id": "30769"
+        },
+        {
+          "type": "release",
+          "date": "2011-11-30",
+          "album_id": "DIG-HUNT-039"
+        },
+        {
+          "type": "release",
+          "date": "2011-10-30",
+          "album_id": "DIG-HUNT-038"
         },
         {
           "type": "release",
@@ -2429,6 +2904,11 @@
         },
         {
           "type": "release",
+          "date": "2011-08-13",
+          "album_id": "DIG-HUNT-037"
+        },
+        {
+          "type": "release",
           "date": "2011-05-08",
           "album_id": "25896"
         },
@@ -2436,6 +2916,16 @@
           "type": "release",
           "date": "2011-05-08",
           "album_id": "26017"
+        },
+        {
+          "type": "release",
+          "date": "2011-05-08",
+          "album_id": "DIG-HUNT-036"
+        },
+        {
+          "type": "release",
+          "date": "2011-05-01",
+          "album_id": "DIG-HUNT-034"
         },
         {
           "type": "release",
@@ -2491,7 +2981,7 @@
     },
     {
       "year": 2010,
-      "release_count": 19,
+      "release_count": 24,
       "milestone_count": 0,
       "events": [
         {
@@ -2521,6 +3011,11 @@
         },
         {
           "type": "release",
+          "date": "2010-12-30",
+          "album_id": "DIG-HUNT-032"
+        },
+        {
+          "type": "release",
           "date": "2010-12-01",
           "album_id": "86030"
         },
@@ -2528,6 +3023,11 @@
           "type": "release",
           "date": "2010-10-11",
           "album_id": "21364"
+        },
+        {
+          "type": "release",
+          "date": "2010-09-17",
+          "album_id": "DIG-HUNT-031"
         },
         {
           "type": "release",
@@ -2553,6 +3053,16 @@
           "type": "release",
           "date": "2010-08-14",
           "album_id": "30396"
+        },
+        {
+          "type": "release",
+          "date": "2010-08-14",
+          "album_id": "DIG-HUNT-030"
+        },
+        {
+          "type": "release",
+          "date": "2010-07-21",
+          "album_id": "DIG-HUNT-029"
         },
         {
           "type": "release",
@@ -2588,12 +3098,17 @@
           "type": "release",
           "date": "2010-03-14",
           "album_id": "18293"
+        },
+        {
+          "type": "release",
+          "date": "2010-02-07",
+          "album_id": "DIG-HUNT-028"
         }
       ]
     },
     {
       "year": 2009,
-      "release_count": 10,
+      "release_count": 14,
       "milestone_count": 0,
       "events": [
         {
@@ -2608,6 +3123,11 @@
         },
         {
           "type": "release",
+          "date": "2009-12-09",
+          "album_id": "DIG-HUNT-027"
+        },
+        {
+          "type": "release",
           "date": "2009-10-11",
           "album_id": "15613"
         },
@@ -2615,6 +3135,16 @@
           "type": "release",
           "date": "2009-10-11",
           "album_id": "16787"
+        },
+        {
+          "type": "release",
+          "date": "2009-09-06",
+          "album_id": "DIG-HUNT-024"
+        },
+        {
+          "type": "release",
+          "date": "2009-09-06",
+          "album_id": "DIG-HUNT-025"
         },
         {
           "type": "release",
@@ -2630,6 +3160,11 @@
           "type": "release",
           "date": "2009-08-15",
           "album_id": "14624"
+        },
+        {
+          "type": "release",
+          "date": "2009-08-15",
+          "album_id": "DIG-HUNT-023"
         },
         {
           "type": "release",
@@ -2666,6 +3201,6 @@
       ]
     }
   ],
-  "total_releases": 479,
+  "total_releases": 586,
   "total_milestones": 13
 }

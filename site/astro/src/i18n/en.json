@@ -25,6 +25,9 @@
   "role.tiein": "Tie-in",
   "header.fanmade": "Unofficial fan site",
   "footer.fanmade": "Unofficial fan-made site. Not affiliated with Nanahira, Confetto, Drive Inc., or any associated label.",
-  "footer.dataSources": "Sources: VGMdb / nanahira.jp / Spotify",
+  "footer.dataSources": "Sources: VGMdb / nanahira.jp / Spotify / nanahira.wiki",
+  "card.tracks.all": "{n} tracks",
+  "card.tracks.none": "{n} tracks · not featured",
+  "card.tracks.some": "{her} of {n} tracks",
   "meta.description": "A fan-made timeline-based introduction to Nanahira's discography."
 }
