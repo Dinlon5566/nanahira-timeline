@@ -82,6 +82,43 @@ const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/
       }
     </script>
 
+    <div class="cover-lightbox" hidden role="dialog" aria-modal="true" aria-label="Album cover">
+      <img class="cover-lightbox__img" alt="" />
+      <button class="cover-lightbox__close" type="button" aria-label="Close">×</button>
+    </div>
+    <script>
+      const lb = document.querySelector<HTMLDivElement>('.cover-lightbox');
+      const lbImg = lb?.querySelector<HTMLImageElement>('.cover-lightbox__img');
+      const lbClose = lb?.querySelector<HTMLButtonElement>('.cover-lightbox__close');
+      if (lb && lbImg && lbClose) {
+        const open = (src: string, alt: string) => {
+          lbImg.src = src;
+          lbImg.alt = alt;
+          lb.hidden = false;
+          document.body.style.overflow = 'hidden';
+        };
+        const close = () => {
+          lb.hidden = true;
+          lbImg.src = '';
+          document.body.style.overflow = '';
+        };
+        document.addEventListener('click', (e) => {
+          const target = e.target as HTMLElement;
+          if (target.matches('img[data-zoomable]')) {
+            const img = target as HTMLImageElement;
+            open(img.src, img.alt);
+            e.preventDefault();
+          }
+        });
+        lb.addEventListener('click', (e) => {
+          if (e.target === lb || (e.target as HTMLElement).closest('.cover-lightbox__close')) close();
+        });
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape' && !lb.hidden) close();
+        });
+      }
+    </script>
+
     <footer class="site-footer">
       <p class="fan-disclaimer">{t(lang, 'footer.fanmade')}</p>
       <p>{t(lang, 'footer.dataSources')}</p>

@@ -11,6 +11,16 @@
   },
   {
     "type": "milestone",
+    "date": "2009-03-08",
+    "label": {
+      "ja": "博麗神社例大祭6 — 同人イベント初参加（NLCD-0021）",
+      "en": "Reitaisai 6 — first doujin event appearance (NLCD-0021)",
+      "zh": "博麗神社例大祭6 — 首次同人展出展（NLCD-0021）"
+    },
+    "category": "anniversary"
+  },
+  {
+    "type": "milestone",
     "date": "2012-08-11",
     "label": {
       "ja": "サークル「Confetto」発足（C82）",
@@ -32,6 +42,37 @@
   },
   {
     "type": "milestone",
+    "date": "2015-10-25",
+    "label": {
+      "ja": "サークル「Lovelicot」発足（M3-36）",
+      "en": "Founded circle \"Lovelicot\" at M3-36",
+      "zh": "創立社團「Lovelicot」（M3-36）"
+    },
+    "category": "anniversary"
+  },
+  {
+    "type": "milestone",
+    "date": "2016-08-13",
+    "label": {
+      "ja": "サークル「pomme'tto」発足（C90）",
+      "en": "Founded circle \"pomme'tto\" at C90",
+      "zh": "創立社團「pomme'tto」（C90）"
+    },
+    "category": "anniversary"
+  },
+  {
+    "type": "milestone",
+    "date": "2017-02-18",
+    "label": {
+      "ja": "SOUND HOLIC 初ワンマン「MAGMA LIVE 2017」出演 @ 新宿BLAZE",
+      "en": "SOUND HOLIC 1st live \"MAGMA LIVE 2017\" — guest @ Shinjuku BLAZE",
+      "zh": "SOUND HOLIC 1st Live「MAGMA LIVE 2017」出演 @ 新宿BLAZE"
+    },
+    "category": "live",
+    "link": "https://magma.extsm.com/live.html"
+  },
+  {
+    "type": "milestone",
     "date": "2017-10-01",
     "label": {
       "ja": "Halozy 活動終了（サークル解散）",
@@ -42,11 +83,89 @@
   },
   {
     "type": "milestone",
+    "date": "2017-11-11",
+    "label": {
+      "ja": "EDP×SOUND VOLTEX FLOOR ANTHEM 2017「私立ボルテ学園」出演 @ 豊洲PIT",
+      "en": "EDP×SOUND VOLTEX FLOOR ANTHEM 2017 — guest @ Toyosu PIT",
+      "zh": "EDP×SOUND VOLTEX FLOOR ANTHEM 2017 出演 @ 豊洲PIT"
+    },
+    "category": "live",
+    "link": "https://edp-edp.com/event/sdvx2017/"
+  },
+  {
+    "type": "milestone",
+    "date": "2018-02-04",
+    "label": {
+      "ja": "1stワンマンイベント「Confesta!」@ KOENJI HIGH",
+      "en": "1st solo event \"Confesta!\" @ KOENJI HIGH",
+      "zh": "第1次個人 Live「Confesta!」@ KOENJI HIGH"
+    },
+    "category": "live",
+    "highlight": true,
+    "link": "https://nanahira.jp/confesta/"
+  },
+  {
+    "type": "milestone",
+    "date": "2018-02-11",
+    "label": {
+      "ja": "SEGA音ゲーライブ JAEPO2018 出演 @ 幕張メッセ（t+pazolite&ななひら VS Cranky&Pico）",
+      "en": "SEGA Music Game Live @ JAEPO2018 — Makuhari Messe",
+      "zh": "SEGA 音遊 Live JAEPO2018 出演 @ 幕張メッセ"
+    },
+    "category": "live",
+    "link": "https://www.sega.jp/topics/detail/180130_arcade_1/"
+  },
+  {
+    "type": "milestone",
+    "date": "2018-03-31",
+    "label": {
+      "ja": "EDP presents ULTRA SUPER Fes'18 出演 @ 新木場STUDIO COAST",
+      "en": "EDP presents ULTRA SUPER Fes'18 — guest @ Shin-Kiba STUDIO COAST",
+      "zh": "EDP presents ULTRA SUPER Fes'18 出演 @ 新木場STUDIO COAST"
+    },
+    "category": "live",
+    "link": "https://edp-edp.com/event/fes2018/"
+  },
+  {
+    "type": "milestone",
+    "date": "2018-08-25",
+    "label": {
+      "ja": "「なのこんツーマンライブ×FAN MEETING in東京」2部 ゲスト出演 @ 大塚Hearts+",
+      "en": "Nanocon Two-Man Live × Fan Meeting Tokyo — Pt.2 guest @ Otsuka Hearts+",
+      "zh": "「なのこんツーマンライブ×FAN MEETING in東京」2部 嘉賓出演 @ 大塚Hearts+"
+    },
+    "category": "live",
+    "link": "https://passmarket.yahoo.co.jp/event/show/detail/01kzvhzn30c1.html"
+  },
+  {
+    "type": "milestone",
+    "date": "2019-08-31",
+    "label": {
+      "ja": "2ndワンマンライブ「Shuwa*Shuwa Parfait」@ 吉祥寺CLUB SEATA",
+      "en": "2nd solo live \"Shuwa*Shuwa Parfait\" @ Kichijoji CLUB SEATA",
+      "zh": "第2次個人 Live「Shuwa*Shuwa Parfait」@ 吉祥寺CLUB SEATA"
+    },
+    "category": "live",
+    "highlight": true,
+    "link": "https://nanahira.jp/shuwa2parfait/"
+  },
+  {
+    "type": "milestone",
     "date": "2020-03-28",
     "label": {
       "ja": "Live2D モデルで配信活動開始",
       "en": "Began streaming with Live2D model",
       "zh": "以 Live2D 形象開始直播活動"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2022-07-02",
+    "label": {
+      "ja": "TVアニメ「てっぺんっ!!!!!!!!!!!!!!!」EDアニメーションのディレクション担当",
+      "en": "TV anime \"Teppen!!!!!!!!!!!!!!\" — ED animation direction credit",
+      "zh": "TV 動畫「てっぺんっ!!!!!!!!!!!!!!!」 ED 動畫 director"
     },
     "category": "media"
   },
@@ -64,15 +183,47 @@
   },
   {
     "type": "milestone",
-    "date": "2024-02-27",
+    "date": "2023-05-22",
     "label": {
-      "ja": "「POKÉDANCE」公開 — メインストリーム・ヒット",
-      "en": "POKÉDANCE released — mainstream breakthrough",
-      "zh": "「POKÉDANCE」公開 — 主流出圈代表作"
+      "ja": "Neko Hacker 初ワンマン「も〜っと！Kawaii Future Live」ゲストボーカル出演 @ 渋谷clubasia",
+      "en": "Neko Hacker 1st live \"Mootto! Kawaii Future Live\" — guest vocal @ Shibuya clubasia",
+      "zh": "Neko Hacker 初ワンマン「も〜っと！Kawaii Future Live」嘉賓人聲 @ 渋谷clubasia"
     },
-    "category": "breakthrough",
-    "highlight": true,
-    "link": "https://x.com/nanahira/status/1762353688990146955"
+    "category": "live",
+    "link": "https://note.com/kassaaaaaaan/n/n9bf7d3b3df60"
+  },
+  {
+    "type": "milestone",
+    "date": "2023-09-06",
+    "label": {
+      "ja": "VTuberライブ「LiVe on Stage ～Meet Your Fave～」DAY1/DAY2 出演 @ アニメイトシアター",
+      "en": "VTuber live \"LiVe on Stage ~Meet Your Fave~\" DAY1/DAY2 @ Animate Theater",
+      "zh": "VTuber Live「LiVe on Stage」DAY1/DAY2 出演 @ Animate Theater"
+    },
+    "category": "live",
+    "link": "https://www.marine-e.net/sp/liveonstage/"
+  },
+  {
+    "type": "milestone",
+    "date": "2024-03-23",
+    "label": {
+      "ja": "Neko Hacker 2ndワンマン「見て決めろ」ゲスト出演 @ Spotify O-EAST",
+      "en": "Neko Hacker 2nd live \"Mite Kimero\" — guest @ Spotify O-EAST",
+      "zh": "Neko Hacker 2ndワンマン「見て決めろ」嘉賓出演 @ Spotify O-EAST"
+    },
+    "category": "live",
+    "link": "https://www.livefans.jp/events/1644971"
+  },
+  {
+    "type": "milestone",
+    "date": "2024-09-14",
+    "label": {
+      "ja": "SPWN PRESENTS XR LIVE「虹色ラプソディ・星空ノクターン」昼/夜公演 出演 @ かつしかシンフォニーヒルズ モーツァルトホール",
+      "en": "SPWN XR LIVE \"Iro Rhapsody / Starry Nocturne\" daytime/night @ Katsushika Symphony Hills Mozart Hall",
+      "zh": "SPWN XR LIVE「虹色ラプソディ・星空ノクターン」昼/夜公演 出演"
+    },
+    "category": "live",
+    "link": "https://balus.co/news/8987/"
   },
   {
     "type": "milestone",
@@ -107,6 +258,17 @@
   },
   {
     "type": "milestone",
+    "date": "2025-09-13",
+    "label": {
+      "ja": "XNAMBA MUSIC FESTIVAL 2025 Part1: DAY 出演 @ Zepp Namba",
+      "en": "XNAMBA MUSIC FESTIVAL 2025 Part1 DAY — guest @ Zepp Namba",
+      "zh": "XNAMBA MUSIC FESTIVAL 2025 Part1: DAY 出演 @ Zepp Namba"
+    },
+    "category": "live",
+    "link": "https://prtimes.jp/main/html/rd/p/000000065.000131350.html"
+  },
+  {
+    "type": "milestone",
     "date": "2025-10-02",
     "label": {
       "ja": "JOYSOUND 公式キャラクター「ジョイオンプー」テーマソング歌唱",
@@ -119,12 +281,13 @@
     "type": "milestone",
     "date": "2026-01-31",
     "label": {
-      "ja": "第3回単独ライブ @池袋HUMAX — 約6年ぶりの有観客ライブ",
-      "en": "3rd solo live concert @ Ikebukuro HUMAX — first in-person live in ~6 years",
-      "zh": "第三次 Live @池袋 HUMAX — 約 6 年來首次線下個唱"
+      "ja": "3rdワンマンライブ「Sugary Bouquet」@ 池袋HUMAXシネマズ — 約6年ぶりの有観客ライブ",
+      "en": "3rd solo live \"Sugary Bouquet\" @ Ikebukuro HUMAX — first in-person live in ~6 years",
+      "zh": "第3次個人 Live「Sugary Bouquet」@ 池袋 HUMAX — 約 6 年來首次線下個唱"
     },
     "category": "live",
-    "highlight": true
+    "highlight": true,
+    "link": "https://nanahira.jp/sugary_bouquet/"
   },
   {
     "type": "milestone",
@@ -135,5 +298,16 @@
       "zh": "M3-2026春 出展"
     },
     "category": "release"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-06-28",
+    "label": {
+      "ja": "Neko Hacker ワンマン「猫も手を借りたい」ゲストボーカル出演予定 @ 渋谷WOMB",
+      "en": "Neko Hacker live \"Neko mo Te wo Karitai\" — guest vocal (upcoming) @ Shibuya WOMB",
+      "zh": "Neko Hacker ワンマン「猫も手を借りたい」嘉賓人聲（預定）@ 渋谷WOMB"
+    },
+    "category": "live",
+    "link": "https://livepocket.jp/e/mowotai"
   }
 ]

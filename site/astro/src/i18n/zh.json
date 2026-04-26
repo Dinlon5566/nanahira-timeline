@@ -25,7 +25,7 @@
   "role.tiein": "商業",
   "header.fanmade": "粉絲創作網站",
   "footer.fanmade": "非官方粉絲創作網站，與 Nanahira 本人、Confetto、株式会社ドライブ及相關廠商無任何關聯。",
-  "footer.dataSources": "資料：VGMdb / nanahira.jp / Spotify / nanahira.wiki",
+  "footer.dataSources": "資料：VGMdb / nanahira.jp / Spotify / nanahira.wiki / bangumi.tv",
   "card.tracks.all": "共 {n} 曲",
   "card.tracks.none": "共 {n} 曲 · 未參與",
   "card.tracks.some": "{n} 曲中參與 {her} 曲",

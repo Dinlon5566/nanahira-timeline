@@ -374,6 +374,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-140",
+    "title_jp": "プチリズム",
+    "title_romaji": "Petit Rhythm",
+    "title_en": null,
+    "release_date": "2009-12-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD-R",
+    "publisher": null,
+    "tracks_count": 6,
+    "her_tracks_count": 3,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-140.jpg",
+      "source": "local",
+      "size": 482355
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-HUNT-028",
     "title_jp": "Trill",
     "title_romaji": "Trill",
@@ -536,6 +563,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-148",
+    "title_jp": "ニコニコオムニバスツアー ～歌ってみた全国ツアー～",
+    "title_romaji": "NicoNico Omnibus Tour ~Utattemita Zenkoku Tour~",
+    "title_en": null,
+    "release_date": "2010-03-31",
+    "catalog": "VICL-63540",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 15,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Featured Artist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-148.jpg",
+      "source": "local",
+      "size": 282338
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "26552",
     "title_jp": "アニメユーロベスト ～School Edition～",
     "title_romaji": "Anime Euro Best ~School Edition~",
@@ -609,7 +663,7 @@
     "cover": {
       "url": "covers/album/DIG-HUNT-029.jpg",
       "source": "local",
-      "size": 208652
+      "size": 34162
     },
     "sources": {
       "vgmdb": null
@@ -1022,6 +1076,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-141",
+    "title_jp": "プチリズムCHU",
+    "title_romaji": "Petit Rhythm CHU",
+    "title_en": null,
+    "release_date": "2010-12-31",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-141.jpg",
+      "source": "local",
+      "size": 217276
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-SINGLE-049",
     "title_jp": "狙い撃ち",
     "title_romaji": "Neraiuchi",
@@ -1276,6 +1357,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-159",
+    "title_jp": "EXIT TUNES PRESENTS 神曲を歌ってみた4",
+    "title_romaji": "EXIT TUNES PRESENTS 神曲を歌ってみた4",
+    "title_en": null,
+    "release_date": "2011-03-16",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 18,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-159.jpg",
+      "source": "local",
+      "size": 41345
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-HUNT-034",
     "title_jp": "ちびロリっ！幼女じゃないもんオトメだもん",
     "title_romaji": "Chibi Loli! Yojo ja nai mon Otome da mon",
@@ -1519,6 +1627,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-142",
+    "title_jp": "プチリズムさん！",
+    "title_romaji": "Petit Rhythm-san!",
+    "title_en": null,
+    "release_date": "2011-08-13",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-142.jpg",
+      "source": "local",
+      "size": 462497
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "28728",
     "title_jp": "SWAP SWAP",
     "title_romaji": "SWAP SWAP",
@@ -1647,6 +1782,33 @@
       "url": "covers/album/DIG-HUNT-038.jpg",
       "source": "local",
       "size": 33641
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-143",
+    "title_jp": "復刻版プチリズム おまけつき",
+    "title_romaji": "Fukkokuban Petit Rhythm Omake-tsuki",
+    "title_en": null,
+    "release_date": "2011-10-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 6,
+    "her_tracks_count": 3,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-143.jpg",
+      "source": "local",
+      "size": 482355
     },
     "sources": {
       "vgmdb": null
@@ -2299,6 +2461,60 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-162",
+    "title_jp": "Dilemmatic Sorcery",
+    "title_romaji": "Dilemmatic Sorcery",
+    "title_en": null,
+    "release_date": "2012-05-27",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 10,
+    "her_tracks_count": 0,
+    "her_ratio": "none",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-162.jpg",
+      "source": "local",
+      "size": 69352
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-147",
+    "title_jp": "歌ってみたアニソンSPEED",
+    "title_romaji": "Utattemita Anison Speed",
+    "title_en": null,
+    "release_date": "2012-07-04",
+    "catalog": "TOCT-29001",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 20,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Featured Artist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-147.jpg",
+      "source": "local",
+      "size": 117496
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "33934",
     "title_jp": "東方レイマリ QUEST",
     "title_romaji": "Touhou Reimari QUEST",
@@ -2752,6 +2968,33 @@
       "url": "covers/album/DIG-HUNT-055.jpg",
       "source": "local",
       "size": 373791
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-144",
+    "title_jp": "プチリズムGO!",
+    "title_romaji": "Petit Rhythm GO!",
+    "title_en": null,
+    "release_date": "2012-10-28",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 8,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-144.jpg",
+      "source": "local",
+      "size": 604802
     },
     "sources": {
       "vgmdb": null
@@ -3223,6 +3466,60 @@
       "url": "covers/album/DIG-HUNT-058.jpg",
       "source": "local",
       "size": 89485
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-155",
+    "title_jp": "フュージョン幼女☆ぴとんちゃん",
+    "title_romaji": "フュージョン幼女☆ぴとんちゃん",
+    "title_en": null,
+    "release_date": "2013-04-29",
+    "catalog": "ODPT-0001",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-155.jpg",
+      "source": "local",
+      "size": 99638
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-163",
+    "title_jp": "ファンシー☆エレクトロパレード",
+    "title_romaji": "ファンシー☆エレクトロパレード",
+    "title_en": null,
+    "release_date": "2013-04-29",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 10,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-163.jpg",
+      "source": "local",
+      "size": 25256
     },
     "sources": {
       "vgmdb": null
@@ -4125,29 +4422,6 @@
     "external_links": {}
   },
   {
-    "id": "DIG-SINGLE-039",
-    "title_jp": "はるかぜポシェット",
-    "title_romaji": "Harukaze Pochette",
-    "title_en": "Harukaze Pochette (album)",
-    "release_date": "2014-01-01",
-    "catalog": "TIE-IN",
-    "event": null,
-    "format": "Game/Anime tie-in",
-    "publisher": null,
-    "tracks_count": 1,
-    "her_tracks_count": 1,
-    "her_ratio": "all",
-    "roles": [
-      "Vocals"
-    ],
-    "display_role": "tiein",
-    "cover": null,
-    "sources": {
-      "vgmdb": null
-    },
-    "external_links": {}
-  },
-  {
     "id": "DIG-SINGLE-040",
     "title_jp": "コンベア速度Max!? しゃいにん☆廻転ズシ\"Sushi&Peace\"",
     "title_romaji": "Conveyor Sokudo Max!? Shainin Kaiten Zushi 'Sushi & Peace'",
@@ -4981,6 +5255,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-145",
+    "title_jp": "はるかぜポシェット",
+    "title_romaji": "Harukaze Pochette",
+    "title_en": null,
+    "release_date": "2014-09-24",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 9,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-145.jpg",
+      "source": "local",
+      "size": 60315
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "127362",
     "title_jp": "KiraKira*Fräulein",
     "title_romaji": "KiraKira*Fräulein",
@@ -5055,6 +5356,60 @@
       "url": "covers/album/DIG-HUNT-081.jpg",
       "source": "local",
       "size": 118637
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-164",
+    "title_jp": "さくらんぼ旅館FOREVER",
+    "title_romaji": "さくらんぼ旅館FOREVER",
+    "title_en": null,
+    "release_date": "2014-10-26",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 4,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-164.jpg",
+      "source": "local",
+      "size": 116850
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-156",
+    "title_jp": "フュージョン幼女☆ぴとんちゃん２ ～ライバル幼女らとるちゃん登場！？の巻～",
+    "title_romaji": "フュージョン幼女☆ぴとんちゃん２ ～ライバル幼女らとるちゃん登場！？の巻～",
+    "title_en": null,
+    "release_date": "2014-10-30",
+    "catalog": "ODPT-0002",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 4,
+    "her_tracks_count": 0,
+    "her_ratio": "none",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-156.jpg",
+      "source": "local",
+      "size": 116392
     },
     "sources": {
       "vgmdb": null
@@ -5332,6 +5687,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-157",
+    "title_jp": "箱入りむちゅめ",
+    "title_romaji": "箱入りむちゅめ",
+    "title_en": null,
+    "release_date": "2014-12-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 11,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-157.jpg",
+      "source": "local",
+      "size": 83141
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-SINGLE-037",
     "title_jp": "ラムのラブソング",
     "title_romaji": "Lum no Love Song",
@@ -5402,6 +5784,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/50243"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-160",
+    "title_jp": "beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.1",
+    "title_romaji": "beatmania IIDX 22 PENDUAL ORIGINAL SOUNDTRACK VOL.1",
+    "title_en": null,
+    "release_date": "2015-03-04",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 49,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-160.jpg",
+      "source": "local",
+      "size": 103618
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -6136,6 +6545,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-165",
+    "title_jp": "earnest.zero",
+    "title_romaji": "earnest.zero",
+    "title_en": null,
+    "release_date": "2015-09-11",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 12,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-165.jpg",
+      "source": "local",
+      "size": 54809
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "55167",
     "title_jp": "Meltical sugar wave / ななひら",
     "title_romaji": "Meltical sugar wave / Nanahira",
@@ -6664,6 +7100,33 @@
       "url": "covers/album/DIG-HUNT-096.jpg",
       "source": "local",
       "size": 349770
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-166",
+    "title_jp": "PRISM",
+    "title_romaji": "PRISM",
+    "title_en": null,
+    "release_date": "2015-12-31",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 18,
+    "her_tracks_count": 6,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-166.jpg",
+      "source": "local",
+      "size": 41242
     },
     "sources": {
       "vgmdb": null
@@ -7634,6 +8097,33 @@
       "url": "covers/album/DIG-HUNT-103.jpg",
       "source": "local",
       "size": 285174
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-167",
+    "title_jp": "ポケットサプライズ",
+    "title_romaji": "ポケットサプライズ",
+    "title_en": null,
+    "release_date": "2016-10-12",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-167.jpg",
+      "source": "local",
+      "size": 705434
     },
     "sources": {
       "vgmdb": null
@@ -8639,6 +9129,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-146",
+    "title_jp": "5colors",
+    "title_romaji": "5colors",
+    "title_en": null,
+    "release_date": "2017-04-30",
+    "catalog": "HGRM-0003",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 5,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Guest Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-146.jpg",
+      "source": "local",
+      "size": 262464
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "67802",
     "title_jp": "Resonate Anthems",
     "title_romaji": "Resonate Anthems",
@@ -9222,6 +9739,33 @@
       "url": "covers/album/DIG-HUNT-122.jpg",
       "source": "local",
       "size": 199407
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-168",
+    "title_jp": "MalonBooks ShopBGM Compilations:001 - Nature -",
+    "title_romaji": "MalonBooks ShopBGM Compilations:001 - Nature -",
+    "title_en": null,
+    "release_date": "2017-08-11",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 14,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-168.jpg",
+      "source": "local",
+      "size": 69481
     },
     "sources": {
       "vgmdb": null
@@ -9819,6 +10363,87 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-149",
+    "title_jp": "ティーパーティーにご招待!",
+    "title_romaji": "Tea Party ni Goshoutai!",
+    "title_en": null,
+    "release_date": "2018-04-29",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Guest Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-149.jpg",
+      "source": "local",
+      "size": 98389
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-150",
+    "title_jp": "システリシス",
+    "title_romaji": "Systerisis",
+    "title_en": null,
+    "release_date": "2018-04-29",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 6,
+    "her_tracks_count": 6,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-150.jpg",
+      "source": "local",
+      "size": 29533
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-169",
+    "title_jp": "O・SHA・MAコロシアム",
+    "title_romaji": "O・SHA・MAコロシアム",
+    "title_en": null,
+    "release_date": "2018-04-29",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 4,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-169.jpg",
+      "source": "local",
+      "size": 144025
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "141865",
     "title_jp": "Hi-Speed TOHO EURO Max",
     "title_romaji": "Hi-Speed TOHO EURO Max",
@@ -9923,6 +10548,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/110763"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-170",
+    "title_jp": "Amateras Records × Melonbooks Limited CD",
+    "title_romaji": "Amateras Records × Melonbooks Limited CD",
+    "title_en": null,
+    "release_date": "2018-05-06",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 13,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-170.jpg",
+      "source": "local",
+      "size": 146312
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -10061,6 +10713,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/103333"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-152",
+    "title_jp": "ピコロニーノーツ６",
+    "title_romaji": "ピコロニーノーツ６",
+    "title_en": null,
+    "release_date": "2018-08-10",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-152.jpg",
+      "source": "local",
+      "size": 106638
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -10555,6 +11234,87 @@
     }
   },
   {
+    "id": "DIG-HUNT-153",
+    "title_jp": "ピコロニーノーツ７",
+    "title_romaji": "ピコロニーノーツ７",
+    "title_en": null,
+    "release_date": "2018-12-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-153.jpg",
+      "source": "local",
+      "size": 67359
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-158",
+    "title_jp": "吾輩は利香である",
+    "title_romaji": "吾輩は利香である",
+    "title_en": null,
+    "release_date": "2018-12-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 9,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-158.jpg",
+      "source": "local",
+      "size": 814003
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-171",
+    "title_jp": "SERVANT Conclusion III- Grand Orbit -",
+    "title_romaji": "SERVANT Conclusion III- Grand Orbit -",
+    "title_en": null,
+    "release_date": "2018-12-30",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 14,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-171.jpg",
+      "source": "local",
+      "size": 93212
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-SINGLE-024",
     "title_jp": "ツマミ戦隊　タテレンジャー",
     "title_romaji": "Tsumami Sentai Tate Ranger",
@@ -10595,6 +11355,33 @@
     ],
     "display_role": "tiein",
     "cover": null,
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-172",
+    "title_jp": "All that is. Is that all?",
+    "title_romaji": "All that is. Is that all?",
+    "title_en": null,
+    "release_date": "2019-03-06",
+    "catalog": "QWCE-90018",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 46,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-172.jpg",
+      "source": "local",
+      "size": 99688
+    },
     "sources": {
       "vgmdb": null
     },
@@ -10740,6 +11527,60 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-173",
+    "title_jp": "ほっと・すぽっと",
+    "title_romaji": "ほっと・すぽっと",
+    "title_en": null,
+    "release_date": "2019-04-28",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 12,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-173.jpg",
+      "source": "local",
+      "size": 120343
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-187",
+    "title_jp": "往古来今",
+    "title_romaji": "Ouko Raikon",
+    "title_en": null,
+    "release_date": "2019-04-28",
+    "catalog": "MNPN-0005",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 13,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-187.jpg",
+      "source": "local",
+      "size": 39062
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "82995",
     "title_jp": "beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK",
     "title_romaji": "beatmania IIDX 26 Rootage ORIGINAL SOUNDTRACK",
@@ -10872,6 +11713,87 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/98177"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-154",
+    "title_jp": "プチリズムEXtreme",
+    "title_romaji": "プチリズムEXtreme",
+    "title_en": null,
+    "release_date": "2019-08-12",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 11,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-154.jpg",
+      "source": "local",
+      "size": 105842
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-174",
+    "title_jp": "Summer Story",
+    "title_romaji": "Summer Story",
+    "title_en": null,
+    "release_date": "2019-08-12",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 19,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-174.jpg",
+      "source": "local",
+      "size": 408101
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-175",
+    "title_jp": "Shuwa*Shuwa Parfait",
+    "title_romaji": "Shuwa*Shuwa Parfait",
+    "title_en": null,
+    "release_date": "2019-08-26",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-175.jpg",
+      "source": "local",
+      "size": 749855
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -12007,6 +12929,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-151",
+    "title_jp": "ギャルゲッCHU！",
+    "title_romaji": "Galge-CHU!",
+    "title_en": null,
+    "release_date": "2020-10-15",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Guest Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-151.jpg",
+      "source": "local",
+      "size": 416929
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "DIG-HUNT-014",
     "title_jp": "Synchronicity",
     "title_romaji": null,
@@ -12035,6 +12984,87 @@
       "apple_music": "https://music.apple.com/jp/album/1535807451",
       "spotify": "https://open.spotify.com/album/7Bi9aODykmeTNp5MgnYN4x"
     }
+  },
+  {
+    "id": "DIG-HUNT-176",
+    "title_jp": "EURO BREAK -NON-STOP REVOLUTION MIX-",
+    "title_romaji": "EURO BREAK -NON-STOP REVOLUTION MIX-",
+    "title_en": null,
+    "release_date": "2020-10-25",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 41,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-176.jpg",
+      "source": "local",
+      "size": 75486
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-177",
+    "title_jp": "rainbow stage!!",
+    "title_romaji": "rainbow stage!!",
+    "title_en": null,
+    "release_date": "2020-10-25",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-177.jpg",
+      "source": "local",
+      "size": 83845
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-178",
+    "title_jp": "star dome",
+    "title_romaji": "star dome",
+    "title_en": null,
+    "release_date": "2020-10-25",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-178.jpg",
+      "source": "local",
+      "size": 38476
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
   },
   {
     "id": "DIG-NEW-002",
@@ -12166,6 +13196,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/127522"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-161",
+    "title_jp": "BEMANI presents 東方ULTIMATE WEAPON",
+    "title_romaji": "BEMANI presents 東方ULTIMATE WEAPON",
+    "title_en": null,
+    "release_date": "2021-02-05",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 11,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-161.jpg",
+      "source": "local",
+      "size": 95109
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -12551,6 +13608,34 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-188",
+    "title_jp": "こちら、母なる星より",
+    "title_romaji": "Kochira, Haha-naru Hoshi yori",
+    "title_en": null,
+    "release_date": "2021-10-28",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game (PS4 / Switch)",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Theme Song Vocalist",
+      "CV"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-188.jpg",
+      "source": "local",
+      "size": 57119
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "130139",
     "title_jp": "Say cheese! / ころねぽち×ななひら",
     "title_romaji": "Say cheese! / Pochi Korone x Nanahira",
@@ -12681,6 +13766,33 @@
     "cover": null,
     "sources": {
       "vgmdb": "https://vgmdb.net/album/120168"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-186",
+    "title_jp": "乙女忍者 -KUNOICHI- / ななひら",
+    "title_romaji": "Otome Ninja -KUNOICHI- / Nanahira",
+    "title_en": null,
+    "release_date": "2021-12-25",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD (Limited Set Bonus)",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-186.jpg",
+      "source": "local",
+      "size": 362620
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -13184,6 +14296,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/122259"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-179",
+    "title_jp": "ぶっとばスーパーノヴァ",
+    "title_romaji": "ぶっとばスーパーノヴァ",
+    "title_en": null,
+    "release_date": "2022-09-01",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-179.jpg",
+      "source": "local",
+      "size": 2861231
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -13965,6 +15104,33 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-180",
+    "title_jp": "Occolle2 -Okka Works Collection2-",
+    "title_romaji": "Occolle2 -Okka Works Collection2-",
+    "title_en": null,
+    "release_date": "2023-10-29",
+    "catalog": "BDCD-02",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 18,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-180.jpg",
+      "source": "local",
+      "size": 311465
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "134291",
     "title_jp": "あいりすミスティリア!～少女のつむぐ夢の秘跡～ ORIGINAL SOUND TRACK Vol.7",
     "title_romaji": "Iris Mysteria! ~Shoujo no Tsumugu Yume no Hiseki~ ORIGINAL SOUND TRACK Vol.7",
@@ -14011,7 +15177,7 @@
     "cover": {
       "url": "covers/album/DIG-SINGLE-004.jpg",
       "source": "local",
-      "size": 186364
+      "size": 134234
     },
     "sources": {
       "vgmdb": null
@@ -14291,6 +15457,60 @@
     "external_links": {}
   },
   {
+    "id": "DIG-HUNT-181",
+    "title_jp": "UNKNOWN NIGHT",
+    "title_romaji": "UNKNOWN NIGHT",
+    "title_en": null,
+    "release_date": "2024-04-28",
+    "catalog": "USCD-001",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 4,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-181.jpg",
+      "source": "local",
+      "size": 93295
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-182",
+    "title_jp": "Kawaii TBC Hacker",
+    "title_romaji": "Kawaii TBC Hacker",
+    "title_en": null,
+    "release_date": "2024-04-28",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 3,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-182.jpg",
+      "source": "local",
+      "size": 1079845
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "141732",
     "title_jp": "Horizontal Connections",
     "title_romaji": "Horizontal Connections",
@@ -14418,6 +15638,33 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/140207"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-183",
+    "title_jp": "Home*made Parade",
+    "title_romaji": "Home*made Parade",
+    "title_en": null,
+    "release_date": "2024-09-01",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-183.jpg",
+      "source": "local",
+      "size": 657491
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   },
@@ -15687,6 +16934,60 @@
     },
     "sources": {
       "vgmdb": "https://vgmdb.net/album/159210"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-184",
+    "title_jp": "イマジナリア",
+    "title_romaji": "イマジナリア",
+    "title_en": null,
+    "release_date": "2026-04-26",
+    "catalog": "SOCD-0006",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 8,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-184.jpg",
+      "source": "local",
+      "size": 416639
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-185",
+    "title_jp": "Note.",
+    "title_romaji": "Note.",
+    "title_en": null,
+    "release_date": "2026-04-26",
+    "catalog": "UNKNOWN",
+    "event": null,
+    "format": "CD",
+    "publisher": null,
+    "tracks_count": 13,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-185.jpg",
+      "source": "local",
+      "size": 113146
+    },
+    "sources": {
+      "vgmdb": null
     },
     "external_links": {}
   }
