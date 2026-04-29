@@ -16857,6 +16857,60 @@
     }
   },
   {
+    "id": "DIG-TIE-008",
+    "title_jp": "ゆんゆん電波シンドローム　オリジナルサウンドトラック",
+    "title_romaji": "Yunyun Denpa Syndrome Original Soundtrack",
+    "title_en": null,
+    "release_date": "2026-04-24",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Digital (Steam OST DLC)",
+    "publisher": null,
+    "tracks_count": 28,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Theme Song Vocalist"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-TIE-008.jpg",
+      "source": "local",
+      "size": 60224
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-189",
+    "title_jp": "Kaleidoscope",
+    "title_romaji": "Kaleidoscope",
+    "title_en": null,
+    "release_date": "2026-04-25",
+    "catalog": "PXCD-0003",
+    "event": null,
+    "format": "CD (2 Disc)",
+    "publisher": null,
+    "tracks_count": 16,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Guest Vocalist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-189.jpg",
+      "source": "local",
+      "size": 247986
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {}
+  },
+  {
     "id": "158972",
     "title_jp": "オシラレル / ヤミナベレコーズ",
     "title_romaji": "Oshirareru / YAMINAABE RECORDS",

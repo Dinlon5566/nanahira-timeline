@@ -2,8 +2,8 @@
   "years": [
     {
       "year": 2026,
-      "release_count": 14,
-      "milestone_count": 3,
+      "release_count": 16,
+      "milestone_count": 5,
       "events": [
         {
           "type": "milestone",
@@ -50,6 +50,38 @@
             "zh": "M3-2026春 出展"
           },
           "category": "release"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-25",
+          "album_id": "DIG-HUNT-189"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-04-25",
+          "label": {
+            "ja": "新作ゲーム『PUKEY GODDESS SHOT TRICK』(Alliance Arts × WHO YOU) 発表 — ななひら CV 担当",
+            "en": "New game \"PUKEY GODDESS SHOT TRICK\" (Alliance Arts × WHO YOU) announced — Nanahira as voice cast",
+            "zh": "新作遊戲『PUKEY GODDESS SHOT TRICK』(Alliance Arts × WHO YOU) 發表 — ななひら 擔任 CV"
+          },
+          "category": "release",
+          "link": "https://store.steampowered.com/app/4150720/"
+        },
+        {
+          "type": "release",
+          "date": "2026-04-24",
+          "album_id": "DIG-TIE-008"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-04-24",
+          "label": {
+            "ja": "ゲーム『ゆんゆん電波シンドローム!?リズム狂気症』(Alliance Arts × WHO YOU) 発売 — ななひら CV ＋ 主題歌担当",
+            "en": "Game \"Yunyun Syndrome!? Rhythm Psychosis\" (Alliance Arts × WHO YOU) released — Nanahira voice cast + theme songs",
+            "zh": "遊戲『ゆんゆん電波シンドローム!?リズム狂気症』(Alliance Arts × WHO YOU) 發售 — ななひら 擔任 CV 與主題歌"
+          },
+          "category": "release",
+          "link": "https://store.steampowered.com/app/2914150/"
         },
         {
           "type": "release",
@@ -3615,6 +3647,6 @@
       ]
     }
   ],
-  "total_releases": 634,
-  "total_milestones": 29
+  "total_releases": 636,
+  "total_milestones": 31
 }
