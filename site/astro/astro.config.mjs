@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://nanahira.dinlon5566.com',
@@ -15,4 +16,18 @@ export default defineConfig({
       redirectToDefaultLocale: false,
     },
   },
+  integrations: [
+    sitemap({
+      i18n: {
+        defaultLocale: 'ja',
+        locales: {
+          ja: 'ja-JP',
+          en: 'en-US',
+          zh: 'zh-Hant',
+        },
+      },
+      // root `/` is a noindex JS-redirect shim — exclude from sitemap
+      filter: (page) => page !== 'https://nanahira.dinlon5566.com/',
+    }),
+  ],
 });

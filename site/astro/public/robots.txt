@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nanahira.dinlon5566.com/sitemap-index.xml
