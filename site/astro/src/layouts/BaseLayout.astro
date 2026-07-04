@@ -13,6 +13,9 @@ const pageTitle = title ? `${title} — ${t(lang, 'site.title')}` : t(lang, 'sit
 const desc = description ?? t(lang, 'meta.description');
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/, '') || '/';
+const origin = Astro.site?.origin ?? '';
+// absolute, self-referencing canonical (hreflang/canonical must be fully-qualified URLs)
+const canonicalURL = `${origin}${base}/${lang}${currentPath}`;
 ---
 <!doctype html>
 <html lang={lang}>
@@ -22,15 +25,19 @@ const currentPath = Astro.url.pathname.replace(base, '').replace(/^\/(ja|en|zh)/
     <meta name="description" content={desc} />
     <title>{pageTitle}</title>
     <link rel="icon" href={`${base}/favicon.ico`} sizes="any" />
+    <link rel="canonical" href={canonicalURL} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={desc} />
-    <meta property="og:image" content={`${Astro.site?.origin ?? ''}${base}/og-image.png`} />
+    <meta property="og:image" content={`${origin}${base}/og-image.png`} />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:image" content={`${Astro.site?.origin ?? ''}${base}/og-image.png`} />
+    <meta name="twitter:image" content={`${origin}${base}/og-image.png`} />
     {LANGS.map((l) => (
-      <link rel="alternate" hreflang={l} href={`${base}/${l}${currentPath}`} />
+      <link rel="alternate" hreflang={l} href={`${origin}${base}/${l}${currentPath}`} />
     ))}
+    <link rel="alternate" hreflang="x-default" href={`${origin}${base}/`} />
+    <link rel="sitemap" href={`${base}/sitemap-index.xml`} />
   </head>
   <body>
     <header class="site-header">

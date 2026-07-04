@@ -2,14 +2,16 @@
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 // fallback target (ja) if JS disabled
 const fallback = `${base}/ja/`;
+const canonicalURL = `${Astro.site?.origin ?? ''}${fallback}`;
 ---
 <!doctype html>
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
-    <meta name="robots" content="noindex, follow" />
+    {/* no noindex here: meta refresh 0 is treated as a permanent redirect by Google,
+        and noindex on a redirecting page blocks signal consolidation to /ja/ */}
     <meta http-equiv="refresh" content={`0; url=${fallback}`} />
-    <link rel="canonical" href={fallback} />
+    <link rel="canonical" href={canonicalURL} />
     <title>ななひら Discography Timeline</title>
     <script is:inline define:vars={{ base }}>
       (function () {

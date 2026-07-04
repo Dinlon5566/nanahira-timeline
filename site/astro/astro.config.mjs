@@ -26,7 +26,7 @@ export default defineConfig({
           zh: 'zh-Hant',
         },
       },
-      // root `/` is a noindex JS-redirect shim — exclude from sitemap
+      // root `/` is a redirect shim (meta refresh -> /ja/, canonical -> /ja/) - exclude from sitemap
       filter: (page) => page !== 'https://nanahira.dinlon5566.com/',
     }),
   ],
