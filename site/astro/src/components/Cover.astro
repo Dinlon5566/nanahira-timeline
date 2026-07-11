@@ -8,11 +8,16 @@ interface Props {
 }
 const { cover, alt, size = 96 } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+// Absolute (http/https) cover URLs pass through untouched (e.g. remote YouTube thumbnails);
+// repo-local paths are resolved under BASE_URL.
+const rawUrl = cover?.url ?? '';
+const isRemote = rawUrl.startsWith('http://') || rawUrl.startsWith('https://');
+const src = isRemote ? rawUrl : `${base}/${rawUrl}`;
 ---
 {cover && (
   <div class="card-cover">
     <img
-      src={`${base}/${cover.url}`}
+      src={src}
       alt={alt}
       width={size}
       height={size}

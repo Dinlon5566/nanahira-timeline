@@ -17044,5 +17044,88 @@
       "vgmdb": null
     },
     "external_links": {}
+  },
+  {
+    "id": "160449",
+    "title_jp": "A Pocket of Moss and Magic / Kirara Magic",
+    "title_romaji": "A Pocket of Moss and Magic / Kirara Magic",
+    "title_en": null,
+    "release_date": "2026-05-22",
+    "catalog": "N/A",
+    "event": null,
+    "format": "Digital",
+    "publisher": "Kirara Magic",
+    "tracks_count": 7,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Featured Artist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/160449.jpg",
+      "source": "local",
+      "size": 88449
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/160449"
+    },
+    "external_links": {}
+  },
+  {
+    "id": "DIG-HUNT-190",
+    "title_jp": "爆裂イレーション!! / コンルテ",
+    "title_romaji": "Bakuretsu Iration!! / Com'rte",
+    "title_en": null,
+    "release_date": "2026-07-08",
+    "catalog": "N/A",
+    "event": null,
+    "format": "MV",
+    "publisher": "コンルテ (Com'rte)",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "https://img.youtube.com/vi/cV-BigxxxYs/maxresdefault.jpg",
+      "source": "manual"
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://www.youtube.com/watch?v=cV-BigxxxYs"
+    }
+  },
+  {
+    "id": "DIG-COV-001",
+    "title_jp": "くりてぃかる♡ぷりちー",
+    "title_romaji": "Critical♡Pretty",
+    "title_en": null,
+    "release_date": "2026-07-05",
+    "catalog": "N/A",
+    "event": null,
+    "format": "MV",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "https://img.youtube.com/vi/czyEQ0pUeyk/maxresdefault.jpg",
+      "source": "manual"
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://youtu.be/czyEQ0pUeyk"
+    }
   }
 ]

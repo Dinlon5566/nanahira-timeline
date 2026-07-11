@@ -111946,5 +111946,120 @@
       "source": "local",
       "size": 190499
     }
+  },
+  {
+    "id": "ALB160449_D1T1",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 1,
+    "title": "Star Powder",
+    "duration": "1:27",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T2",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 2,
+    "title": "A Pocket of Moss and Magic (feat. 茶太)",
+    "duration": "3:41",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T3",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 3,
+    "title": "Herb Tea (feat. Nanahira)",
+    "duration": "3:31",
+    "her": true,
+    "her_role": "lead",
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T4",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 4,
+    "title": "Emerald",
+    "duration": "3:06",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T5",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 5,
+    "title": "Calming Aroma (feat. 月乃)",
+    "duration": "3:42",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T6",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 6,
+    "title": "Shelter in the Forest (feat. Ameru)",
+    "duration": "3:46",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALB160449_D1T7",
+    "album_id": "160449",
+    "disc": 1,
+    "track_no": 7,
+    "title": "Kirara's Atelier (Celtic ver)",
+    "duration": "2:47",
+    "her": false,
+    "her_role": null,
+    "vocal_credits": [],
+    "cover": null
+  },
+  {
+    "id": "ALBDIG-HUNT-190_D1T1",
+    "album_id": "DIG-HUNT-190",
+    "disc": 1,
+    "track_no": 1,
+    "title": "爆裂イレーション!!",
+    "duration": null,
+    "her": true,
+    "her_role": "lead",
+    "vocal_credits": [
+      "月乃",
+      "あやぽんず＊",
+      "すばる",
+      "詠未"
+    ],
+    "cover": null
+  },
+  {
+    "id": "ALBDIG-COV-001_D1T1",
+    "album_id": "DIG-COV-001",
+    "disc": 1,
+    "track_no": 1,
+    "title": "くりてぃかる♡ぷりちー (原曲: iLiFE!)",
+    "duration": null,
+    "her": true,
+    "her_role": "lead",
+    "vocal_credits": [
+      "すずしろ"
+    ],
+    "cover": null
   }
 ]

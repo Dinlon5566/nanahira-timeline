@@ -325,11 +325,32 @@
     "type": "milestone",
     "date": "2026-06-28",
     "label": {
-      "ja": "Neko Hacker ワンマン「猫も手を借りたい」ゲストボーカル出演予定 @ 渋谷WOMB",
-      "en": "Neko Hacker live \"Neko mo Te wo Karitai\" — guest vocal (upcoming) @ Shibuya WOMB",
-      "zh": "Neko Hacker ワンマン「猫も手を借りたい」嘉賓人聲（預定）@ 渋谷WOMB"
+      "ja": "Neko Hacker ワンマン「猫も手を借りたい」ゲストボーカル出演 @ 渋谷WOMB",
+      "en": "Neko Hacker live \"Neko mo Te wo Karitai\" — guest vocal @ Shibuya WOMB",
+      "zh": "Neko Hacker ワンマン「猫も手を借りたい」嘉賓人聲 @ 渋谷WOMB"
     },
     "category": "live",
     "link": "https://livepocket.jp/e/mowotai"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-05-22",
+    "label": {
+      "ja": "東方アレンジ「A Pocket of Moss and Magic」(Kirara Magic) 参加 — 「Herb Tea」ボーカル",
+      "en": "Featured on \"A Pocket of Moss and Magic\" (Kirara Magic) — vocals on \"Herb Tea\"",
+      "zh": "參與東方編曲專輯「A Pocket of Moss and Magic」(Kirara Magic) — 演唱「Herb Tea」"
+    },
+    "category": "release"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-06-24",
+    "label": {
+      "ja": "TVアニメ「カナン様はあくまでチョロい」オリジナルサウンドトラック (NOPA-8948) に劇伴用ボイス・コーラスで参加",
+      "en": "Contributed BGM voice & chorus to the TV anime \"Mistress Kanan is Devilishly Easy\" Original Soundtrack (NOPA-8948)",
+      "zh": "為 TV 動畫「カナン様はあくまでチョロい」原聲帶 (NOPA-8948) 擔任劇伴配音・和聲"
+    },
+    "category": "media",
+    "link": "https://vgmdb.net/album/161511"
   }
 ]
