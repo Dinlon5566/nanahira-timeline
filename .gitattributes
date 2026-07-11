@@ -1,0 +1,44 @@
+# ============================================================
+#  .gitattributes — enforce consistent line endings
+#  The repo stores all text as LF. This prevents CRLF/LF churn
+#  across Windows / macOS / Linux and AI coding tools (which
+#  emit LF), so `git status` never shows phantom whole-file
+#  changes again. Takes precedence over each machine's
+#  core.autocrlf setting.
+# ============================================================
+
+# Default: auto-detect text, store & check out as LF everywhere.
+* text=auto eol=lf
+
+# --- Explicit text formats used by this project ---
+*.astro          text eol=lf
+*.ts             text eol=lf
+*.tsx            text eol=lf
+*.js             text eol=lf
+*.mjs            text eol=lf
+*.cjs            text eol=lf
+*.jsx            text eol=lf
+*.json           text eol=lf
+*.css            text eol=lf
+*.html           text eol=lf
+*.md             text eol=lf
+*.py             text eol=lf
+*.yml            text eol=lf
+*.yaml           text eol=lf
+*.svg            text eol=lf
+*.txt            text eol=lf
+.gitignore       text eol=lf
+.gitattributes   text eol=lf
+
+# --- Binary assets (never touch line endings) ---
+*.ico            binary
+*.png            binary
+*.jpg            binary
+*.jpeg           binary
+*.gif            binary
+*.webp           binary
+*.avif           binary
+*.woff           binary
+*.woff2          binary
+*.ttf            binary
+*.otf            binary
