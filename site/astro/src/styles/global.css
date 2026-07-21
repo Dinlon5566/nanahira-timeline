@@ -146,6 +146,41 @@ a:hover { text-decoration: underline; }
 .expand-arrow { font-size: 0.75rem; line-height: 1; }
 
 /* ===== Timeline main ===== */
+/* ===== Intro ===== */
+.intro {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 28px 24px 4px;
+}
+.intro-lead {
+  font-size: 1.02rem;
+  color: #333;
+}
+.intro-body {
+  margin-top: 8px;
+  color: #777;
+  font-size: 0.88rem;
+  max-width: 640px;
+}
+.intro-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-top: 16px;
+}
+.intro-stats .stat-num {
+  font-size: 1.3rem;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  color: #c14e7a;
+  font-variant-numeric: tabular-nums;
+}
+.intro-stats .stat-label {
+  margin-left: 4px;
+  color: #999;
+  font-size: 0.78rem;
+}
+
 .timeline {
   max-width: 860px;
   margin: 0 auto;
@@ -249,6 +284,7 @@ a:hover { text-decoration: underline; }
 .year:not([open]) .year-toggle::after {
   transform: rotate(-90deg);
 }
+.year:not([open]) .events { display: none; }
 
 /* ===== Event list ===== */
 .events {

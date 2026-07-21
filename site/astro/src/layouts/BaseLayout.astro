@@ -113,7 +113,8 @@ const canonicalURL = `${origin}${base}/${lang}${currentPath}`;
           const target = e.target as HTMLElement;
           if (target.matches('img[data-zoomable]')) {
             const img = target as HTMLImageElement;
-            open(img.src, img.alt);
+            // cards show the thumb; the lightbox loads the full-size original
+            open(img.dataset.full || img.src, img.alt);
             e.preventDefault();
           }
         });

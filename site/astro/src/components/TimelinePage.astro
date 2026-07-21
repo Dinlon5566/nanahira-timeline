@@ -24,8 +24,28 @@ for (const tr of tracks) {
 }
 
 const currentYear = new Date().getFullYear();
+const yearNums = timeline.years.map(y => y.year);
+const yearSpan = `${Math.min(...yearNums)}–${Math.max(...yearNums)}`;
 ---
 <BaseLayout lang={lang}>
+  <section class="intro">
+    <p class="intro-lead">{t(lang, 'intro.lead')}</p>
+    <p class="intro-body">{t(lang, 'intro.body')}</p>
+    <ul class="intro-stats">
+      <li>
+        <span class="stat-num">{timeline.total_releases.toLocaleString('en-US')}</span>
+        <span class="stat-label">{t(lang, 'intro.stat.releases')}</span>
+      </li>
+      <li>
+        <span class="stat-num">{tracks.length.toLocaleString('en-US')}</span>
+        <span class="stat-label">{t(lang, 'intro.stat.tracks')}</span>
+      </li>
+      <li>
+        <span class="stat-num">{yearSpan}</span>
+        <span class="stat-label">{t(lang, 'intro.stat.years')}</span>
+      </li>
+    </ul>
+  </section>
   <FilterBar lang={lang} />
   <YearNav years={timeline.years} />
   <div class="timeline">
@@ -46,14 +66,78 @@ const currentYear = new Date().getFullYear();
       link.addEventListener('click', () => {
         const year = link.dataset.year;
         if (!year) return;
+        pauseAutoExpand(); // years flown past during the smooth jump stay collapsed
         const sec = document.getElementById(`year-${year}`);
         if (!sec) return;
+        delete sec.dataset.userClosed;
         if (!sec.hasAttribute('open')) {
           sec.setAttribute('open', '');
           sec.querySelector('.year-toggle')?.setAttribute('aria-expanded', 'true');
         }
       });
     });
+
+    // Auto-expand collapsed years as they scroll near (400px early, so the
+    // timeline reads as continuous). Years the user collapsed by hand stay shut.
+    let autoExpandPaused = false;
+    let resumeTimer: number | undefined;
+    const autoExpand = new IntersectionObserver((entries) => {
+      if (autoExpandPaused) return;
+      entries.forEach(en => {
+        if (!en.isIntersecting) return;
+        const sec = en.target as HTMLElement;
+        if (sec.hasAttribute('open') || sec.dataset.userClosed) return;
+        // only open years still below the fold — opening one already on screen
+        // (after a nav jump, or entering from the top while scrolling up)
+        // grows the page mid-viewport and yanks the view
+        if (en.boundingClientRect.top < window.innerHeight) return;
+        sec.setAttribute('open', '');
+        sec.querySelector('.year-toggle')?.setAttribute('aria-expanded', 'true');
+      });
+    }, { rootMargin: '0px 0px 400px 0px' });
+    document.querySelectorAll('.year').forEach(s => autoExpand.observe(s));
+
+    // Direct links like /ja/#year-2008 land on a collapsed section — open it
+    const hashSec = /^#year-\d{4}$/.test(location.hash)
+      ? document.getElementById(location.hash.slice(1))
+      : null;
+    if (hashSec && !hashSec.hasAttribute('open')) {
+      hashSec.setAttribute('open', '');
+      hashSec.querySelector('.year-toggle')?.setAttribute('aria-expanded', 'true');
+      hashSec.scrollIntoView({ behavior: 'instant' as ScrollBehavior });
+    }
+
+    // Fill the first screen: while still at the top of the page, opening the
+    // years in or near view only grows the page downward — nothing visibly moves.
+    if (window.scrollY < 100) {
+      document.querySelectorAll<HTMLElement>('.year:not([open])').forEach(sec => {
+        if (sec.dataset.userClosed) return;
+        if (sec.getBoundingClientRect().top < window.innerHeight + 400) {
+          sec.setAttribute('open', '');
+          sec.querySelector('.year-toggle')?.setAttribute('aria-expanded', 'true');
+        }
+      });
+    }
+
+    function pauseAutoExpand() {
+      autoExpandPaused = true;
+      clearInterval(resumeTimer);
+      // smooth jumps have no fixed duration — resume once the position settles
+      // (scrollend below resumes sooner where supported)
+      let lastY = -1;
+      resumeTimer = window.setInterval(() => {
+        if (Math.abs(window.scrollY - lastY) < 2) resumeAutoExpand();
+        lastY = window.scrollY;
+      }, 250);
+    }
+    function resumeAutoExpand() {
+      clearInterval(resumeTimer);
+      if (!autoExpandPaused) return;
+      autoExpandPaused = false;
+      // re-observe so a year already sitting inside the margin gets re-evaluated
+      document.querySelectorAll('.year').forEach(s => { autoExpand.unobserve(s); autoExpand.observe(s); });
+    }
+    window.addEventListener('scrollend', resumeAutoExpand);
 
     // Active year highlight
     const navLinks = new Map<string, HTMLAnchorElement>();
@@ -75,12 +159,14 @@ const currentYear = new Date().getFullYear();
     // Year section collapse
     document.querySelectorAll<HTMLButtonElement>('.year-toggle').forEach(btn => {
       btn.addEventListener('click', () => {
-        const sec = btn.closest('.year')!;
+        const sec = btn.closest<HTMLElement>('.year')!;
         const isOpen = sec.hasAttribute('open');
         if (isOpen) {
           sec.removeAttribute('open');
+          sec.dataset.userClosed = '1'; // scroll auto-expand must not reopen it
           btn.setAttribute('aria-expanded', 'false');
         } else {
+          delete sec.dataset.userClosed;
           sec.setAttribute('open', '');
           btn.setAttribute('aria-expanded', 'true');
         }

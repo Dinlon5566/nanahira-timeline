@@ -12,16 +12,24 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 // repo-local paths are resolved under BASE_URL.
 const rawUrl = cover?.url ?? '';
 const isRemote = rawUrl.startsWith('http://') || rawUrl.startsWith('https://');
-const src = isRemote ? rawUrl : `${base}/${rawUrl}`;
+const full = isRemote ? rawUrl : `${base}/${rawUrl}`;
+// Local covers render from a pre-generated 192px WebP (scripts/generate_thumbs.py);
+// the lightbox swaps in data-full, and onerror covers thumbs not yet generated.
+const thumb = isRemote
+  ? full
+  : `${base}/${rawUrl.replace(/^covers\//, 'covers/thumb/').replace(/\.jpg$/i, '.webp')}`;
 ---
 {cover && (
   <div class="card-cover">
     <img
-      src={src}
+      src={thumb}
       alt={alt}
       width={size}
       height={size}
       loading="lazy"
+      decoding="async"
+      data-full={full}
+      onerror="this.onerror=null;this.src=this.dataset.full||this.src"
       data-zoomable
     />
   </div>

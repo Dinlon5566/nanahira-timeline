@@ -28,6 +28,11 @@ Place covers in `public/covers/album/<album_id>.jpg` or `public/covers/track/<tr
 and re-run `scripts/sync_from_research.py` — the `cover` field will be filled
 automatically. Missing covers gracefully degrade to cover-less layout.
 
+After adding covers, run `python3 scripts/generate_thumbs.py` (requires Pillow)
+to build the 192px WebP thumbs under `public/covers/thumb/` — timeline cards
+load these instead of the full-size originals; the lightbox still shows the
+original on click. A missing thumb falls back to the original via `onerror`.
+
 Use `/home/kali/project/nanahira/research/fetch_covers.py` (iTunes search API,
 no auth needed) to bulk-fetch covers.
 
