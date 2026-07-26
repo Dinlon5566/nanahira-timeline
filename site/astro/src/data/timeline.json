@@ -3,8 +3,30 @@
     {
       "year": 2026,
       "release_count": 19,
-      "milestone_count": 7,
+      "milestone_count": 9,
       "events": [
+        {
+          "type": "milestone",
+          "date": "2026-11-06",
+          "label": {
+            "ja": "劇場アニメ『GROTESQQQUE-グロテスク-』公開予定（GTQ1『エリィアンズ』参加アーティスト）",
+            "en": "Anime film GROTESQQQUE scheduled to open in theaters (participating artist, GTQ1 \"Ellyans\")",
+            "zh": "動畫電影『GROTESQQQUE-グロテスク-』預定上映（GTQ1『エリィアンズ』參加歌手）"
+          },
+          "category": "media",
+          "link": "https://movie-gtq123.com/"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-07-17",
+          "label": {
+            "ja": "劇場アニメ『GROTESQQQUE-グロテスク-』参加アーティスト発表 — GTQ1『エリィアンズ』ラインナップ入り",
+            "en": "Announced as a participating artist in the anime film GROTESQQQUE — GTQ1 \"Ellyans\" lineup",
+            "zh": "動畫電影『GROTESQQQUE-グロテスク-』參加歌手發表 — 列入 GTQ1『エリィアンズ』陣容"
+          },
+          "category": "media",
+          "link": "https://movie-gtq123.com/"
+        },
         {
           "type": "release",
           "date": "2026-07-08",
@@ -3684,5 +3706,5 @@
     }
   ],
   "total_releases": 639,
-  "total_milestones": 33
+  "total_milestones": 35
 }
