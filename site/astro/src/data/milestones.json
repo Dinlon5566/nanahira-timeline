@@ -366,6 +366,17 @@
   },
   {
     "type": "milestone",
+    "date": "2026-08-19",
+    "label": {
+      "ja": "Steamゲーム『春はあけぼの、我はバケモノ。』(STUDIO CHARON) 発売 — 心目ななつ編OP「ごめんなさい、ごめんなさい」歌唱担当",
+      "en": "Steam game \"Spring at Dawn, I Am a Monster.\" (STUDIO CHARON) released — sings Nanatsu Kokorome's OP \"Gomennasai, Gomennasai\"",
+      "zh": "Steam 遊戲『春はあけぼの、我はバケモノ。』(STUDIO CHARON) 發售 — 演唱心目ななつ篇 OP「ごめんなさい、ごめんなさい」"
+    },
+    "category": "release",
+    "link": "https://store.steampowered.com/app/4644290/"
+  },
+  {
+    "type": "milestone",
     "date": "2026-11-06",
     "label": {
       "ja": "劇場アニメ『GROTESQQQUE-グロテスク-』公開予定（GTQ1『エリィアンズ』参加アーティスト）",

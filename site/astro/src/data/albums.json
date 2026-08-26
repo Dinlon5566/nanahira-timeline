@@ -17073,31 +17073,61 @@
     "external_links": {}
   },
   {
-    "id": "DIG-HUNT-190",
-    "title_jp": "爆裂イレーション!! / コンルテ",
-    "title_romaji": "Bakuretsu Iration!! / Com'rte",
+    "id": "160454",
+    "title_jp": "Subculture Adventure! / Hexacube",
+    "title_romaji": null,
     "title_en": null,
-    "release_date": "2026-07-08",
+    "release_date": "2026-05-22",
     "catalog": "N/A",
     "event": null,
-    "format": "MV",
-    "publisher": "コンルテ (Com'rte)",
+    "format": "Digital (2 Disc)",
+    "publisher": "Hexacube",
+    "tracks_count": 26,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Featuring"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/160454.jpg",
+      "source": "local",
+      "size": 1573281
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/160454"
+    },
+    "external_links": {
+      "bandcamp": "https://hexacube.bandcamp.com/album/subculture-adventure"
+    }
+  },
+  {
+    "id": "DIG-YY-002",
+    "title_jp": "どうにでもなあれ",
+    "title_romaji": null,
+    "title_en": "Donidemonare - Who Cares Anymore",
+    "release_date": "2026-06-22",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
     "tracks_count": 1,
     "her_tracks_count": 1,
     "her_ratio": "all",
     "roles": [
       "Vocals"
     ],
-    "display_role": "guest",
+    "display_role": "tiein",
     "cover": {
-      "url": "https://img.youtube.com/vi/cV-BigxxxYs/maxresdefault.jpg",
-      "source": "manual"
+      "url": "covers/album/DIG-YY-002.jpg",
+      "source": "local",
+      "size": 129178
     },
     "sources": {
       "vgmdb": null
     },
     "external_links": {
-      "youtube": "https://www.youtube.com/watch?v=cV-BigxxxYs"
+      "apple_music": "https://music.apple.com/jp/album/6782334505"
     }
   },
   {
@@ -17127,5 +17157,294 @@
     "external_links": {
       "youtube": "https://youtu.be/czyEQ0pUeyk"
     }
+  },
+  {
+    "id": "DIG-HUNT-190",
+    "title_jp": "爆裂イレーション!! / コンルテ",
+    "title_romaji": "Bakuretsu Iration!! / Com'rte",
+    "title_en": null,
+    "release_date": "2026-07-08",
+    "catalog": "N/A",
+    "event": null,
+    "format": "MV",
+    "publisher": "コンルテ (Com'rte)",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "https://img.youtube.com/vi/cV-BigxxxYs/maxresdefault.jpg",
+      "source": "manual"
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://www.youtube.com/watch?v=cV-BigxxxYs"
+    }
+  },
+  {
+    "id": "DIG-HUNT-191",
+    "title_jp": "クラゲの商店街 / MOTTO MUSIC & 桜ひで丸",
+    "title_romaji": null,
+    "title_en": "Jellyfish Shopping Street",
+    "release_date": "2026-07-17",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 3,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-191.jpg",
+      "source": "local",
+      "size": 401010
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6790578817"
+    }
+  },
+  {
+    "id": "DIG-HUNT-192",
+    "title_jp": "讃えよ!絶対学権リュシア様 / ファル公 & DJ Myosuke feat. ななひら",
+    "title_romaji": null,
+    "title_en": "Pray & Praise! Professor Lucia",
+    "release_date": "2026-07-26",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-192.jpg",
+      "source": "local",
+      "size": 353267
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6793904980",
+      "youtube": "https://youtu.be/B44OE1xB5gI"
+    }
+  },
+  {
+    "id": "DIG-GTQ-001",
+    "title_jp": "pavilion / GROTESQQQUE & ななひら",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-07-29",
+    "catalog": "N/A",
+    "event": null,
+    "format": "Digital",
+    "publisher": "GROTESQQQUE (Ki/oon)",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-GTQ-001.jpg",
+      "source": "local",
+      "size": 333151
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6791445851"
+    }
+  },
+  {
+    "id": "162513",
+    "title_jp": "LOVECULTURE",
+    "title_romaji": "Love Culture",
+    "title_en": null,
+    "release_date": "2026-08-05",
+    "catalog": "SEXX-03262",
+    "event": null,
+    "format": "Digital",
+    "publisher": "Ki/oon (Sony Music Labels)",
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/162513.jpg",
+      "source": "local",
+      "size": 333151
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/162513"
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6799808187"
+    }
+  },
+  {
+    "id": "DIG-HUNT-193",
+    "title_jp": "パステルピクセル / DYES IWASAKI feat. ななひら",
+    "title_romaji": null,
+    "title_en": "Pastel Pixel",
+    "release_date": "2026-08-12",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": null,
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-193.jpg",
+      "source": "local",
+      "size": 466056
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6798206060",
+      "youtube": "https://youtu.be/a3Qc-twp8Ys"
+    }
+  },
+  {
+    "id": "DIG-GTQ-002",
+    "title_jp": "orz / GROTESQQQUE & ななひら",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-08-19",
+    "catalog": "N/A",
+    "event": null,
+    "format": "Digital",
+    "publisher": "GROTESQQQUE (Ki/oon)",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-GTQ-002.jpg",
+      "source": "local",
+      "size": 333151
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6799808405"
+    }
+  },
+  {
+    "id": "DIG-SINGLE-055",
+    "title_jp": "ごめんなさい、ごめんなさい",
+    "title_romaji": "Gomennasai, Gomennasai",
+    "title_en": null,
+    "release_date": "2026-08-19",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game/Anime tie-in",
+    "publisher": "STUDIO CHARON",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-SINGLE-055.jpg",
+      "source": "local",
+      "size": 82886
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://store.steampowered.com/app/4644290/"
+    }
+  },
+  {
+    "id": "DIG-SINGLE-056",
+    "title_jp": "命スクリプト",
+    "title_romaji": "Inochi Script",
+    "title_en": null,
+    "release_date": "2026-08-20",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game/Anime tie-in",
+    "publisher": "原口沙輔",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-SINGLE-056.jpg",
+      "source": "local",
+      "size": 29126
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://chunithm.sega.jp/music/"
+    }
+  },
+  {
+    "id": "162141",
+    "title_jp": "jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-10-07",
+    "catalog": "LC2666~9",
+    "event": null,
+    "format": "4 CD",
+    "publisher": "KONAMI",
+    "tracks_count": 99,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Featured Artist"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/162141.jpg",
+      "source": "local",
+      "size": 149119
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/162141"
+    },
+    "external_links": {}
   }
 ]

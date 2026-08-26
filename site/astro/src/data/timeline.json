@@ -2,8 +2,8 @@
   "years": [
     {
       "year": 2026,
-      "release_count": 19,
-      "milestone_count": 9,
+      "release_count": 30,
+      "milestone_count": 10,
       "events": [
         {
           "type": "milestone",
@@ -15,6 +15,62 @@
           },
           "category": "media",
           "link": "https://movie-gtq123.com/"
+        },
+        {
+          "type": "release",
+          "date": "2026-10-07",
+          "album_id": "162141"
+        },
+        {
+          "type": "release",
+          "date": "2026-08-20",
+          "album_id": "DIG-SINGLE-056"
+        },
+        {
+          "type": "release",
+          "date": "2026-08-19",
+          "album_id": "DIG-GTQ-002"
+        },
+        {
+          "type": "release",
+          "date": "2026-08-19",
+          "album_id": "DIG-SINGLE-055"
+        },
+        {
+          "type": "milestone",
+          "date": "2026-08-19",
+          "label": {
+            "ja": "Steamゲーム『春はあけぼの、我はバケモノ。』(STUDIO CHARON) 発売 — 心目ななつ編OP「ごめんなさい、ごめんなさい」歌唱担当",
+            "en": "Steam game \"Spring at Dawn, I Am a Monster.\" (STUDIO CHARON) released — sings Nanatsu Kokorome's OP \"Gomennasai, Gomennasai\"",
+            "zh": "Steam 遊戲『春はあけぼの、我はバケモノ。』(STUDIO CHARON) 發售 — 演唱心目ななつ篇 OP「ごめんなさい、ごめんなさい」"
+          },
+          "category": "release",
+          "link": "https://store.steampowered.com/app/4644290/"
+        },
+        {
+          "type": "release",
+          "date": "2026-08-12",
+          "album_id": "DIG-HUNT-193"
+        },
+        {
+          "type": "release",
+          "date": "2026-08-05",
+          "album_id": "162513"
+        },
+        {
+          "type": "release",
+          "date": "2026-07-29",
+          "album_id": "DIG-GTQ-001"
+        },
+        {
+          "type": "release",
+          "date": "2026-07-26",
+          "album_id": "DIG-HUNT-192"
+        },
+        {
+          "type": "release",
+          "date": "2026-07-17",
+          "album_id": "DIG-HUNT-191"
         },
         {
           "type": "milestone",
@@ -61,8 +117,18 @@
         },
         {
           "type": "release",
+          "date": "2026-06-22",
+          "album_id": "DIG-YY-002"
+        },
+        {
+          "type": "release",
           "date": "2026-05-22",
           "album_id": "160449"
+        },
+        {
+          "type": "release",
+          "date": "2026-05-22",
+          "album_id": "160454"
         },
         {
           "type": "milestone",
@@ -3705,6 +3771,6 @@
       ]
     }
   ],
-  "total_releases": 639,
-  "total_milestones": 35
+  "total_releases": 650,
+  "total_milestones": 36
 }
