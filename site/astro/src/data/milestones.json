@@ -385,5 +385,91 @@
     },
     "category": "media",
     "link": "https://movie-gtq123.com/"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-08-31",
+    "label": {
+      "ja": "VoiSona 歌声ライブラリ「七柊」(CV:ななひら) 発表 — 2026年12月12日発売予定",
+      "en": "VoiSona singing voice library \"Nanahi\" (CV: Nanahira) announced — release set for Dec 12, 2026",
+      "zh": "VoiSona 歌聲庫「七柊」(CV:ななひら) 發表 — 預定 2026 年 12 月 12 日發售"
+    },
+    "category": "media",
+    "link": "https://voisona.com/song/artist/nanahi_ja_JP/"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-09-01",
+    "label": {
+      "ja": "「クラブこわい」Music Video 公開（Movie: じぇねらる）",
+      "en": "\"Club Kowai\" music video premiered (movie by generalcanon)",
+      "zh": "「クラブこわい」MV 公開（Movie：じぇねらる）"
+    },
+    "category": "media",
+    "link": "https://youtu.be/U9xzi4LuBW4"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-09-17",
+    "label": {
+      "ja": "DMM TVドラマ『幸せカナコの殺し屋生活2』配信開始 — 主題歌「乙女のタクティクス」(コツメカワウソ'S) ボーカル",
+      "en": "DMM TV drama \"Shiawase Kanako no Koroshiya Seikatsu 2\" premiered — vocals on theme song \"Otome no Tactics\" (Kotsumekawauso'S)",
+      "zh": "DMM TV 劇集『幸せカナコの殺し屋生活2』開播 — 演唱主題曲「乙女のタクティクス」(コツメカワウソ'S)"
+    },
+    "category": "media"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-10-14",
+    "label": {
+      "ja": "リズムゲーム『Nientum - Op.ZERO』(QueseraGames) 正式リリース — 「I'll say it for you!」「A Story of a Moment」歌唱参加",
+      "en": "Rhythm game \"Nientum - Op.ZERO\" (QueseraGames) full release — vocals on \"I'll say it for you!\" and \"A Story of a Moment\"",
+      "zh": "節奏遊戲『Nientum - Op.ZERO』(QueseraGames) 正式發行 — 參與演唱「I'll say it for you!」「A Story of a Moment」"
+    },
+    "category": "release",
+    "link": "https://store.steampowered.com/app/2725250/"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-10-25",
+    "label": {
+      "ja": "M3-2026秋 出展",
+      "en": "M3-2026 Autumn booth",
+      "zh": "M3-2026秋 出展"
+    },
+    "category": "release"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-11-07",
+    "label": {
+      "ja": "AMUSEMENT MUSIC FES 2026 出演（バンダイナムコ枠）@ 東京ビッグサイト",
+      "en": "AMUSEMENT MUSIC FES 2026 (Bandai Namco stage) @ Tokyo Big Sight",
+      "zh": "AMUSEMENT MUSIC FES 2026 演出（萬代南夢宮場次）@ 東京 Big Sight"
+    },
+    "category": "live",
+    "link": "https://amusementexpo.jp/musicfes/"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-12-08",
+    "label": {
+      "ja": "新作ゲーム『PUKEY GODDESS SHOT TRICK』(Alliance Arts × WHO YOU) 発売予定 — ななひら CV 担当",
+      "en": "Game \"PUKEY GODDESS SHOT TRICK\" (Alliance Arts × WHO YOU) scheduled for release — Nanahira voices a character",
+      "zh": "新作遊戲『PUKEY GODDESS SHOT TRICK』(Alliance Arts × WHO YOU) 預定發售 — ななひら 擔任 CV"
+    },
+    "category": "release",
+    "link": "https://store.steampowered.com/app/4150720/"
+  },
+  {
+    "type": "milestone",
+    "date": "2026-12-19",
+    "label": {
+      "ja": "ライブイベント「オータム・デイドリーム」Akki × ななひら × 花形真喜 出演 @ 渋谷7thFLOOR",
+      "en": "Live event \"Autumn Daydream\" — Akki × Nanahira × 花形真喜 @ Shibuya 7thFLOOR",
+      "zh": "現場活動「オータム・デイドリーム」Akki × ななひら × 花形真喜 演出 @ 渋谷7thFLOOR"
+    },
+    "category": "live",
+    "link": "https://x.com/Suijo_Walk/status/2111668691234701477"
   }
 ]

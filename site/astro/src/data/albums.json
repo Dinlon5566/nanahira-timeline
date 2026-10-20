@@ -17238,7 +17238,7 @@
       "size": 353267
     },
     "sources": {
-      "vgmdb": null
+      "vgmdb": "https://vgmdb.net/album/162239"
     },
     "external_links": {
       "apple_music": "https://music.apple.com/jp/album/6793904980",
@@ -17388,7 +17388,8 @@
       "vgmdb": null
     },
     "external_links": {
-      "official": "https://store.steampowered.com/app/4644290/"
+      "official": "https://store.steampowered.com/app/4644290/",
+      "apple_music": "https://music.apple.com/jp/album/6810211540"
     }
   },
   {
@@ -17421,6 +17422,63 @@
     }
   },
   {
+    "id": "DIG-HUNT-194",
+    "title_jp": "乙女のタクティクス",
+    "title_romaji": "Otome no Tactics",
+    "title_en": null,
+    "release_date": "2026-09-12",
+    "catalog": "DIGITAL-ONLY",
+    "event": null,
+    "format": "Digital",
+    "publisher": "DMM TV",
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-194.jpg",
+      "source": "local",
+      "size": 287800
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "apple_music": "https://music.apple.com/jp/album/6803770699"
+    }
+  },
+  {
+    "id": "DIG-COV-002",
+    "title_jp": "セカイ / もちこまめ × ななひら",
+    "title_romaji": "Sekai",
+    "title_en": null,
+    "release_date": "2026-09-26",
+    "catalog": "N/A",
+    "event": null,
+    "format": "MV",
+    "publisher": "もちこまめ",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "https://img.youtube.com/vi/5U3YCZeipvM/maxresdefault.jpg",
+      "source": "manual"
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://youtu.be/5U3YCZeipvM"
+    }
+  },
+  {
     "id": "162141",
     "title_jp": "jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK",
     "title_romaji": null,
@@ -17446,5 +17504,179 @@
       "vgmdb": "https://vgmdb.net/album/162141"
     },
     "external_links": {}
+  },
+  {
+    "id": "DIG-SINGLE-057",
+    "title_jp": "I'll say it for you!",
+    "title_romaji": "I'll say it for you!",
+    "title_en": null,
+    "release_date": "2026-10-14",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game/Anime tie-in",
+    "publisher": "QueseraGames",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-SINGLE-057.jpg",
+      "source": "local",
+      "size": 45662
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://store.steampowered.com/app/2725250/"
+    }
+  },
+  {
+    "id": "DIG-SINGLE-058",
+    "title_jp": "A Story of a Moment",
+    "title_romaji": "A Story of a Moment",
+    "title_en": null,
+    "release_date": "2026-10-14",
+    "catalog": "TIE-IN",
+    "event": null,
+    "format": "Game/Anime tie-in",
+    "publisher": "QueseraGames",
+    "tracks_count": 1,
+    "her_tracks_count": 1,
+    "her_ratio": "all",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "tiein",
+    "cover": {
+      "url": "covers/album/DIG-SINGLE-058.jpg",
+      "source": "local",
+      "size": 45662
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://store.steampowered.com/app/2725250/"
+    }
+  },
+  {
+    "id": "164850",
+    "title_jp": "シュガーランデヴー / ななひら & 七柊",
+    "title_romaji": "Sugar Rendezvous / Nanahira & Nanahi",
+    "title_en": "SUGAR RENDEZVOUS / Nanahira & Nanahi",
+    "release_date": "2026-10-25",
+    "catalog": "CFCD-0032",
+    "event": "M3-58",
+    "format": "CD",
+    "publisher": "Confetto",
+    "tracks_count": 2,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "lead",
+    "cover": {
+      "url": "covers/album/164850.jpg",
+      "source": "local",
+      "size": 742283
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/164850"
+    },
+    "external_links": {
+      "official": "https://nanahira.jp/sugar_rendezvous/"
+    }
+  },
+  {
+    "id": "164813",
+    "title_jp": "MELODIES IN OUR POCKET",
+    "title_romaji": null,
+    "title_en": null,
+    "release_date": "2026-10-25",
+    "catalog": "TOMI-777",
+    "event": "M3-58",
+    "format": "2 CD",
+    "publisher": "TOM-I IMPRINTS",
+    "tracks_count": 20,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/164813.jpg",
+      "source": "local",
+      "size": 159655
+    },
+    "sources": {
+      "vgmdb": "https://vgmdb.net/album/164813"
+    },
+    "external_links": {
+      "official": "https://tom-i-imprints.com/TOMI-777/"
+    }
+  },
+  {
+    "id": "DIG-HUNT-195",
+    "title_jp": "ラブパレット！ / ちょこ",
+    "title_romaji": null,
+    "title_en": "Love Palette!",
+    "release_date": "2026-10-25",
+    "catalog": "UNKNOWN",
+    "event": "M3-58",
+    "format": "CD",
+    "publisher": "ちょこっとだけ",
+    "tracks_count": 3,
+    "her_tracks_count": 2,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-195.jpg",
+      "source": "local",
+      "size": 197509
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "official": "https://chokottodake.booth.pm/items/8997752"
+    }
+  },
+  {
+    "id": "DIG-HUNT-196",
+    "title_jp": "オレンジレミニセント / Vivid Lila",
+    "title_romaji": null,
+    "title_en": "Orange Reminiscent",
+    "release_date": "2026-10-25",
+    "catalog": "UNKNOWN",
+    "event": "M3-58",
+    "format": "CD",
+    "publisher": "Vivid Lila",
+    "tracks_count": 4,
+    "her_tracks_count": 1,
+    "her_ratio": "some",
+    "roles": [
+      "Vocals"
+    ],
+    "display_role": "guest",
+    "cover": {
+      "url": "covers/album/DIG-HUNT-196.jpg",
+      "source": "local",
+      "size": 217843
+    },
+    "sources": {
+      "vgmdb": null
+    },
+    "external_links": {
+      "youtube": "https://www.youtube.com/watch?v=vGcGcniU8yE"
+    }
   }
 ]
